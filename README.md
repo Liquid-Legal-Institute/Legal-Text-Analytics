@@ -34,7 +34,7 @@ A list of selected resources, methods, and tools dedicated to Legal Text Analyti
 ## Datasets and Data
 [Back to Top](#contents)
 
-## Annotations and Annotations Schemes
+## Annotations and Annotation Schemes
 [Back to Top](#contents)
 
 ## Annotation Tools
