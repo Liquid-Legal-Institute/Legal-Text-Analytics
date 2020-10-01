@@ -8,7 +8,7 @@ A list of selected resources, methods, and tools dedicated to Legal Text Analyti
 
 ![Logo](/images/unsplashmainimage.png)
 
-_Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/pulls)._
+_Please read the [contribution guidelines](contributing.md) before contributing. Please add a resource by raising a [pull request](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/pulls)._
 
 ## Contents
 
