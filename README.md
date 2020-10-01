@@ -16,7 +16,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Methods](#methods)
 * [Libraries](#libraries)
 * [Datasets and Data](#datasets-and-data)
-* [Annotation Schemes and Data Schemes](#annotations-schemes-and-data-schemes)
+* [Annotation and Data Schemes](#annotations-schemes-and-data-schemes)
 * [Annotation Tools](#annotation-tools)
 <!---* [Communities and Research Labs](#research-labs)--->
 <!---* [Conferences](#conferences)--->
@@ -42,7 +42,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Datasets and Data
 [Back to Top](#contents)
 
-## Annotation Schemes and Data Schemes
+## Annotation and Data Schemes
 [Back to Top](#contents)
 
 ## Annotation Tools
