@@ -18,6 +18,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Datasets and Data](#datasets-and-data)
 * [Annotation and Data Schemes](#annotations-schemes-and-data-schemes)
 * [Annotation Tools](#annotation-tools)
+* [Research Groups](#research-groups)
 <!---* [Communities and Research Labs](#research-labs)--->
 <!---* [Conferences](#conferences)--->
 <!---* [Tutorials and Online Courses](#tutorials)
@@ -46,6 +47,9 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 [Back to Top](#contents)
 
 ## Annotation Tools
+[Back to Top](#contents)
+
+## Research Groups
 [Back to Top](#contents)
 
 ## Credits
