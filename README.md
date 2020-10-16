@@ -75,6 +75,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Legal Text Summarization](https://mediatum.ub.tum.de/670493?show_id=1446654)
 - [Legal Text Translation](https://mediatum.ub.tum.de/670493?show_id=1446655)
 - [Legal Document Classification](https://mediatum.ub.tum.de/670493?show_id=1446653)
+- [Legal Sentence Classification (German)](https://github.com/sebischair/Legal-Sentence-Classification-Datasets-and-Models)
 - [100k German Court Decisions](http://openlegaldata.io/research/2019/02/19/court-decision-dataset.html)
 - [Legal Paper Datasets](https://github.com/thunlp/LegalPapers#datasets)
 - [German: Gesetze im Internet](https://www.gesetze-im-internet.de/), [Rechtsprechung im Internet](http://www.rechtsprechung-im-internet.de/), [Verwaltungsvorschriften im Internet](http://www.verwaltungsvorschriften-im-internet.de/)
