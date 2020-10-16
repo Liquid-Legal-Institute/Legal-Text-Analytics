@@ -82,6 +82,9 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Annotation and Data Schemes
 [Back to Top](#contents)
 
+- [Annotation guidelines for Legal Entity Recognition (Germany](https://github.com/elenanereiss/Legal-Entity-Recognition/blob/master/docs/Annotationsrichtlinien.pdf)
+- [Semantic Types of Legal Norms](https://wwwmatthes.in.tum.de/file/18x0ledera9rh/Sebis-Public-Website/-/Semantic-Types-of-Legal-Norms-in-German-Laws-Classification-and-Analysis-Using-Local-Linear-Explanations/Wa18c.pdf)
+
 ## Annotation Tools
 [Back to Top](#contents)
 
