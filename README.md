@@ -66,6 +66,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Scikit - machine learning in python](https://scikit-learn.org/)
 - [Apache UIMA](https://uima.apache.org/)
 - [Gate - General Architecture for Text Engineering](https://gate.ac.uk/)
+- [Flair - SOTA NLP (incl. biomedical and legal data)](https://github.com/flairNLP/flair)
 - [Blackstone - Legal Named Entity Recognition and Text Categorizer](https://github.com/ICLRandD/Blackstone)
 
 ## Datasets and Data
