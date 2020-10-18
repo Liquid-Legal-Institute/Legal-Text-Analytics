@@ -66,6 +66,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Scikit - machine learning in python](https://scikit-learn.org/)
 - [Apache UIMA](https://uima.apache.org/)
 - [Gate - General Architecture for Text Engineering](https://gate.ac.uk/)
+- [Blackstone - Legal Named Entity Recognition and Text Categorizer](https://github.com/ICLRandD/Blackstone)
 
 ## Datasets and Data
 [Back to Top](#contents)
@@ -80,6 +81,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Legal Paper Datasets](https://github.com/thunlp/LegalPapers#datasets)
 - [Awesome Legal Data](https://github.com/openlegaldata/awesome-legal-data)
 - Germany: [Gesetze im Internet](https://www.gesetze-im-internet.de/), [Rechtsprechung im Internet](http://www.rechtsprechung-im-internet.de/), [Verwaltungsvorschriften im Internet](http://www.verwaltungsvorschriften-im-internet.de/)
+- UK: [UK Law Reports & Case Law Search](https://www.iclr.co.uk/)
 
 ## Annotation and Data Schemes
 [Back to Top](#contents)
