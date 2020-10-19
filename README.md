@@ -45,6 +45,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Argument Mining](https://en.wikipedia.org/wiki/Argument_mining)
 - [Question Answering](https://en.wikipedia.org/wiki/Question_answering)
 - Legal Case Outcome Prediction
+- [Reference and Coreference Extraction](https://en.wikipedia.org/wiki/Coreference)
 - [Document Assembling and Generation](https://en.wikipedia.org/wiki/Document_automation)
 - [Voice Transcription](https://en.wikipedia.org/wiki/Speech_recognition)
 
@@ -66,8 +67,10 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Scikit - machine learning in python](https://scikit-learn.org/)
 - [Apache UIMA](https://uima.apache.org/)
 - [Gate - General Architecture for Text Engineering](https://gate.ac.uk/)
+- [Transformers and re-trained embedding models](https://huggingface.co/)
 - [Flair - SOTA NLP (incl. biomedical and legal data)](https://github.com/flairNLP/flair)
 - [Blackstone - Legal Named Entity Recognition and Text Categorizer](https://github.com/ICLRandD/Blackstone)
+- [Legal Reference Detection](https://github.com/neo-search/juristische-verweiserkennung), [Legal Reference Detection II](https://github.com/openlegaldata/legal-reference-extraction)
 
 ## Datasets and Data
 [Back to Top](#contents)
@@ -83,6 +86,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Awesome Legal Data](https://github.com/openlegaldata/awesome-legal-data)
 - Germany: [Gesetze im Internet](https://www.gesetze-im-internet.de/), [Rechtsprechung im Internet](http://www.rechtsprechung-im-internet.de/), [Verwaltungsvorschriften im Internet](http://www.verwaltungsvorschriften-im-internet.de/)
 - German NLP Ressources: [Awesome German NLP](https://github.com/adbar/German-NLP)
+- German Bert Model: [Deepset AI](https://deepset.ai/german-bert)
 - UK: [UK Law Reports & Case Law Search](https://www.iclr.co.uk/)
 
 ## Annotation and Data Schemes
