@@ -88,6 +88,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - German NLP Ressources: [Awesome German NLP](https://github.com/adbar/German-NLP)
 - German Bert Model: [Deepset AI](https://deepset.ai/german-bert)
 - UK: [UK Law Reports & Case Law Search](https://www.iclr.co.uk/)
+- Isreal: [The Israeli Supreme Court Database](https://iscd.huji.ac.il/data)
 
 ## Annotation and Data Schemes
 [Back to Top](#contents)
