@@ -32,7 +32,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [LTA in French](#nlp-in-german)--->
 * [Credits](#credits)
 
-## Selected Use Case
+## Selected Use Cases
 [Back to Top](#contents)
 
 - [Optical Character Recognition](https://en.wikipedia.org/wiki/Optical_character_recognition)
