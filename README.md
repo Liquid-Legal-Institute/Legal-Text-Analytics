@@ -19,6 +19,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Annotation and Data Schemes](#annotations-schemes-and-data-schemes)
 * [Annotation Tools](#annotation-tools)
 * [Research Groups](#research-groups)
+* [Tutorials](#tutorials)
 <!---* [Communities and Research Labs](#research-labs)--->
 <!---* [Conferences](#conferences)--->
 <!---* [Tutorials and Online Courses](#tutorials)
@@ -105,6 +106,13 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Research Groups
 [Back to Top](#contents)
+
+## Tutorials
+[Back to Top](#contents)
+
+- [Document Representation for Legal Texts](https://medium.com/doctrine/a-single-legal-text-representation-at-doctrine-the-legal-camembert-a5ee2b851763)
+
+
 
 ## Credits
 [Back to Top](#contents)
