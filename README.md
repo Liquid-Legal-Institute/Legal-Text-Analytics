@@ -49,6 +49,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Reference and Coreference Extraction](https://en.wikipedia.org/wiki/Coreference)
 - [Document Assembling and Generation](https://en.wikipedia.org/wiki/Document_automation)
 - [Voice Transcription](https://en.wikipedia.org/wiki/Speech_recognition)
+- Anomaly Detection
 
 ## Methods
 [Back to Top](#contents)
