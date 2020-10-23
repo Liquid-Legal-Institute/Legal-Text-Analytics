@@ -88,9 +88,11 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Legal Paper Datasets](https://github.com/thunlp/LegalPapers#datasets)
 - [Awesome Legal Data](https://github.com/openlegaldata/awesome-legal-data)
 - Germany: [Gesetze im Internet](https://www.gesetze-im-internet.de/), [Rechtsprechung im Internet](http://www.rechtsprechung-im-internet.de/), [Verwaltungsvorschriften im Internet](http://www.verwaltungsvorschriften-im-internet.de/)
+- Germany: [Annotated German Court Decisiosn (jugdement style)](https://zenodo.org/record/3936490)
 - Switzerland: [Swiss Legislation Corpus](https://pub.cl.uzh.ch/corpora/PaCoCo/Swiss_Legislation_Corpus/) French and German
 - German NLP Ressources: [Awesome German NLP](https://github.com/adbar/German-NLP)
 - German Bert Model: [Deepset AI](https://deepset.ai/german-bert)
+- EU: [Judicial Decisions of the European Court of Human Rights](https://github.com/masha-medvedeva/ECtHR_crystal_ball)
 - UK: [UK Law Reports & Case Law Search](https://www.iclr.co.uk/)
 - Isreal: [The Israeli Supreme Court Database](https://iscd.huji.ac.il/data)
 - Meta Search: [Google Dataset Search](https://datasetsearch.research.google.com/)
