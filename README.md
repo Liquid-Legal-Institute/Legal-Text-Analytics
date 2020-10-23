@@ -93,6 +93,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - German Bert Model: [Deepset AI](https://deepset.ai/german-bert)
 - UK: [UK Law Reports & Case Law Search](https://www.iclr.co.uk/)
 - Isreal: [The Israeli Supreme Court Database](https://iscd.huji.ac.il/data)
+- Meta Search: [Google Dataset Search](https://datasetsearch.research.google.com/)
 
 ## Annotation and Data Schemes
 [Back to Top](#contents)
