@@ -68,7 +68,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Scikit - machine learning in python](https://scikit-learn.org/)
 - [Apache UIMA](https://uima.apache.org/)
 - [Gate - General Architecture for Text Engineering](https://gate.ac.uk/)
-- [Transformers and re-trained embedding models](https://huggingface.co/)
+- [Transformers and re-trained embedding models](https://huggingface.co/) including [LegalBERT](https://arxiv.org/abs/2010.02559)
 - [Flair - SOTA NLP (incl. biomedical and legal data)](https://github.com/flairNLP/flair)
 - [Blackstone - Legal Named Entity Recognition and Text Categorizer](https://github.com/ICLRandD/Blackstone)
 - [Legal Reference Detection](https://github.com/neo-search/juristische-verweiserkennung), [Legal Reference Detection II](https://github.com/openlegaldata/legal-reference-extraction)
