@@ -20,7 +20,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Annotation Tools](#annotation-tools)
 * [Research Groups and Labs](#research-groups-and-labs)
 * [Tutorials](#tutorials)
-<!---* [Communities and Research Labs](#research-labs)--->
 <!---* [Conferences](#conferences)--->
 <!---* [Tutorials and Online Courses](#tutorials)
   * [Reading Content](#reading-content)
@@ -121,13 +120,14 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [University of Vienny - Department of Innovation and Digitalisation in Law](https://id.univie.ac.at/)
 - [University of Amsterdam - Leibniz Center for Law](http://www.leibnizcenter.org/)
 - [University of Helsinki - LegalTech Research Lab](https://www.helsinki.fi/en/networks/legal-tech-lab/research)
+- [Computational Legal Studies](https://computationallegalstudies.com/)
 
 ## Tutorials
 [Back to Top](#contents)
 
+- [Monkey Learn - Text Analysis](https://monkeylearn.com/text-analysis/)
+- [Using NLP to understand laws](https://towardsdatascience.com/using-nlp-to-understand-laws-95278624ae5)
 - [Document Representation for Legal Texts](https://medium.com/doctrine/a-single-legal-text-representation-at-doctrine-the-legal-camembert-a5ee2b851763)
-
-
 
 ## Credits
 [Back to Top](#contents)
