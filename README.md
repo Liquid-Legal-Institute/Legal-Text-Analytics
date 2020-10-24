@@ -114,12 +114,12 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Research Groups and Labs
 [Back to Top](#contents)
 
-- [CodeX - The Stanford Center for Legal Informatics](https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/)
+- [Stanford University - CodeX: The Stanford Center for Legal Informatics](https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/)
 - [Technical University of Munich](https://wwwmatthes.in.tum.de/pages/9vnvmfknjsc/LegalTech-NLP-KR-ML-NLG)
 - [Bucerius Center on the Legal Profession](https://www.law-school.de/forschung-fakultaet/institute-und-zentren/center-on-the-legal-profession)
-- [Data Science for Lawyers](https://www.datascienceforlawyers.org/)
+- [University of Ottawa - Data Science for Lawyers](https://www.datascienceforlawyers.org/)
 - [University of Vienny - Department of Innovation and Digitalisation in Law](https://id.univie.ac.at/)
-- [Leibniz Center for Law of the University of Amsterdam](http://www.leibnizcenter.org/)
+- [University of Amsterdam - Leibniz Center for Law](http://www.leibnizcenter.org/)
 - [University of Helsinki - LegalTech Research Lab](https://www.helsinki.fi/en/networks/legal-tech-lab/research)
 
 ## Tutorials
