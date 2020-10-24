@@ -94,7 +94,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - German Bert Model: [Deepset AI](https://deepset.ai/german-bert)
 - EU: [Judicial Decisions of the European Court of Human Rights](https://github.com/masha-medvedeva/ECtHR_crystal_ball)
 - UK: [UK Law Reports & Case Law Search](https://www.iclr.co.uk/)
-- Isreal: [The Israeli Supreme Court Database](https://iscd.huji.ac.il/data)
+- Israel: [The Israeli Supreme Court Database](https://iscd.huji.ac.il/data)
 - Meta Search: [Google Dataset Search](https://datasetsearch.research.google.com/)
 
 ## Annotation and Data Schemes
