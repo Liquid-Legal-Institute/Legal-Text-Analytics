@@ -36,9 +36,9 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - [Optical Character Recognition](https://en.wikipedia.org/wiki/Optical_character_recognition)
 - Legal [Document Pre-processing](https://towardsdatascience.com/nlp-text-preprocessing-a-practical-guide-and-template-d80874676e79)
-- Clause Segmentation and [Sentence Boundary Detection](https://en.wikipedia.org/wiki/Sentence_boundary_disambiguation)
+- Clause [Segmentation](https://en.wikipedia.org/wiki/Segment_(linguistics)) and [Sentence Boundary Detection](https://en.wikipedia.org/wiki/Sentence_boundary_disambiguation)
 - [Information Extraction](https://en.wikipedia.org/wiki/Information_extraction) and [Named Entity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition)
-- Clause Classification
+- [Legal Norm Classification](https://en.wikipedia.org/wiki/Legal_norm#:~:text=There%20are%20two%20categories%20of,number%20of%20people%20and%20cases.)
 - [Machine Translation](https://en.wikipedia.org/wiki/Machine_translation)
 - [Document Comparison](https://en.wikipedia.org/wiki/Document_comparison) and [Semantic Matching](https://en.wikipedia.org/wiki/Semantic_matching)
 - [Text Summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
@@ -48,7 +48,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Reference and Coreference Extraction](https://en.wikipedia.org/wiki/Coreference)
 - [Document Assembling and Generation](https://en.wikipedia.org/wiki/Document_automation)
 - [Voice Transcription](https://en.wikipedia.org/wiki/Speech_recognition)
-- Anomaly Detection
+- [Anomaly Detection](https://en.wikipedia.org/wiki/Anomaly_detection)
 
 ## Methods
 [Back to Top](#contents)
