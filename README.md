@@ -38,7 +38,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - Legal [Document Pre-processing](https://towardsdatascience.com/nlp-text-preprocessing-a-practical-guide-and-template-d80874676e79)
 - Clause [Segmentation](https://en.wikipedia.org/wiki/Segment_(linguistics)) and [Sentence Boundary Detection](https://en.wikipedia.org/wiki/Sentence_boundary_disambiguation)
 - [Information Extraction](https://en.wikipedia.org/wiki/Information_extraction) and [Named Entity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition)
-- [Legal Norm Classification](https://en.wikipedia.org/wiki/Legal_norm#:~:text=There%20are%20two%20categories%20of,number%20of%20people%20and%20cases.)
+- [Legal Norm Classification](https://en.wikipedia.org/wiki/Legal_norm#Ontological_model_of_legal_norms)
 - [Machine Translation](https://en.wikipedia.org/wiki/Machine_translation)
 - [Document Comparison](https://en.wikipedia.org/wiki/Document_comparison) and [Semantic Matching](https://en.wikipedia.org/wiki/Semantic_matching)
 - [Text Summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
