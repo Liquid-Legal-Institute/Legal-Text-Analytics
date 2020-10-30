@@ -91,7 +91,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - German NLP Ressources: [Awesome German NLP](https://github.com/adbar/German-NLP)
 - German Bert Model: [Deepset AI](https://deepset.ai/german-bert)
 - ECtHR: [Judicial Decisions of the European Court of Human Rights](https://github.com/masha-medvedeva/ECtHR_crystal_ball)
-- EU: [European Union Law (eurlex R Package)](https://cloud.r-project.org/web/packages/eurlex/index.html) 
+- EU: [European Union Law (eurlex R Package)](https://cloud.r-project.org/web/packages/eurlex/index.html),[Digital Corpus of the European Parliament (DCEP)](https://ec.europa.eu/jrc/en/language-technologies/dcep) 
 - Canada: [Federal Laws and Regulations](ftp://205.193.86.89/) 
 - UK: [UK Law Reports & Case Law Search](https://www.iclr.co.uk/)
 - USA: [Caselaw Access Project](https://case.law)
