@@ -86,15 +86,20 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [100k German Court Decisions](http://openlegaldata.io/research/2019/02/19/court-decision-dataset.html)
 - [Legal Paper Datasets](https://github.com/thunlp/LegalPapers#datasets)
 - [Awesome Legal Data](https://github.com/openlegaldata/awesome-legal-data)
-- Germany: [Gesetze im Internet](https://www.gesetze-im-internet.de/), [Rechtsprechung im Internet](http://www.rechtsprechung-im-internet.de/), [Verwaltungsvorschriften im Internet](http://www.verwaltungsvorschriften-im-internet.de/)
-- Germany: [Annotated German Court Decisions (Judgment style)](https://zenodo.org/record/3936490)
+- Germany: [Gesetze im Internet](https://www.gesetze-im-internet.de/), [Rechtsprechung im Internet](http://www.rechtsprechung-im-internet.de/), [Verwaltungsvorschriften im Internet](http://www.verwaltungsvorschriften-im-internet.de/),[Annotated German Court Decisions (Judgment style)](https://zenodo.org/record/3936490), [German Federal Courts Dataset](https://www.richter-im-internet.de)
 - Switzerland: [Swiss Legislation Corpus](https://pub.cl.uzh.ch/corpora/PaCoCo/Swiss_Legislation_Corpus/) French and German
 - German NLP Ressources: [Awesome German NLP](https://github.com/adbar/German-NLP)
 - German Bert Model: [Deepset AI](https://deepset.ai/german-bert)
-- EU: [Judicial Decisions of the European Court of Human Rights](https://github.com/masha-medvedeva/ECtHR_crystal_ball)
+- ECtHR: [Judicial Decisions of the European Court of Human Rights](https://github.com/masha-medvedeva/ECtHR_crystal_ball)
+- EU: [European Union Law (eurlex R Package)](https://cloud.r-project.org/web/packages/eurlex/index.html),[Digital Corpus of the European Parliament (DCEP)](https://ec.europa.eu/jrc/en/language-technologies/dcep) 
+- Canada: [Federal Laws and Regulations](ftp://205.193.86.89/) 
 - UK: [UK Law Reports & Case Law Search](https://www.iclr.co.uk/)
+- USA: [Caselaw Access Project](https://case.law)
 - Israel: [The Israeli Supreme Court Database](https://iscd.huji.ac.il/data)
+- United Nations: [United Nations General Debate Corpus](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y), [United Nations Parallel Corpus](https://conferences.unite.un.org/uncorpus)
+- International Law: [Text of Trade Agreements (ToTA)](https://github.com/mappingtreaties/tota/tree/master/xml), [Electronic Database on Investment Treaties (EDIT)](https://edit.wti.org/document/investment-treaty/search)
 - Meta Search: [Google Dataset Search](https://datasetsearch.research.google.com/)
+- Overview of Political Science Datasets: [PolData](https://github.com/erikgahner/PolData) 
 
 ## Annotation and Data Schemes
 [Back to Top](#contents)
@@ -117,7 +122,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Technical University of Munich](https://wwwmatthes.in.tum.de/pages/9vnvmfknjsc/LegalTech-NLP-KR-ML-NLG)
 - [Bucerius Center on the Legal Profession](https://www.law-school.de/forschung-fakultaet/institute-und-zentren/center-on-the-legal-profession)
 - [Suffolk Law School - Legal Innovation & Technology (LIT) Lab](https://suffolklitlab.org) 
-- [University of Ottawa - Data Science for Lawyers](https://www.datascienceforlawyers.org/)
+- [University of Ottawa - Legal Technology Lab](https://techlaw.uottawa.ca/initiatives/legaltechlab)
 - [University of Vienny - Department of Innovation and Digitalisation in Law](https://id.univie.ac.at/)
 - [University of Amsterdam - Leibniz Center for Law](http://www.leibnizcenter.org/)
 - [University of Helsinki - LegalTech Research Lab](https://www.helsinki.fi/en/networks/legal-tech-lab/research)
@@ -129,6 +134,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Monkey Learn - Text Analysis](https://monkeylearn.com/text-analysis/)
 - [Using NLP to understand laws](https://towardsdatascience.com/using-nlp-to-understand-laws-95278624ae5)
 - [Document Representation for Legal Texts](https://medium.com/doctrine/a-single-legal-text-representation-at-doctrine-the-legal-camembert-a5ee2b851763)
+- [Data Science for Lawyers - Learning Resources](https://www.datascienceforlawyers.org/learning-resources/)
+- [Coding for Lawyers (discontinued)](http://codingforlawyers.com/)
 
 ## Credits
 [Back to Top](#contents)
