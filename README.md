@@ -121,6 +121,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Stanford University - CodeX: The Stanford Center for Legal Informatics](https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/)
 - [Technical University of Munich](https://wwwmatthes.in.tum.de/pages/9vnvmfknjsc/LegalTech-NLP-KR-ML-NLG)
 - [Bucerius Center on the Legal Profession](https://www.law-school.de/forschung-fakultaet/institute-und-zentren/center-on-the-legal-profession)
+- [Suffolk Law School - Legal Innovation & Technology (LIT) Lab](https://suffolklitlab.org) 
 - [University of Ottawa - Legal Technology Lab](https://techlaw.uottawa.ca/initiatives/legaltechlab)
 - [University of Vienny - Department of Innovation and Digitalisation in Law](https://id.univie.ac.at/)
 - [University of Amsterdam - Leibniz Center for Law](http://www.leibnizcenter.org/)
