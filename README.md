@@ -2,6 +2,7 @@
 [![LTA](https://img.shields.io/badge/CLP-Ecosystem-blue)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
 [![LTA](https://img.shields.io/badge/CLP-Code-red)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
 [![LTA](https://img.shields.io/badge/CLP-Community-orange)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 A list of selected resources, methods, and tools dedicated to Legal Text Analytics. 
 
@@ -140,12 +141,9 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Credits
 [Back to Top](#contents)
 
-See contributors and committers (and many more)
+See contributors and committers (and many more).
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
