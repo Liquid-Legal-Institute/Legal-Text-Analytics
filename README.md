@@ -50,6 +50,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Document Assembling and Generation](https://en.wikipedia.org/wiki/Document_automation)
 - [Voice Transcription](https://en.wikipedia.org/wiki/Speech_recognition)
 - [Anomaly Detection](https://en.wikipedia.org/wiki/Anomaly_detection)
+- [Data Anonymization](https://en.wikipedia.org/wiki/Data_anonymization)
 
 ## Methods
 [Back to Top](#contents)
@@ -74,6 +75,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Flair - SOTA NLP (incl. biomedical and legal data)](https://github.com/flairNLP/flair)
 - [Blackstone - Legal Named Entity Recognition and Text Categorizer](https://github.com/ICLRandD/Blackstone)
 - [Legal Reference Detection](https://github.com/neo-search/juristische-verweiserkennung), [Legal Reference Detection II](https://github.com/openlegaldata/legal-reference-extraction)
+- [Haystack - Transformers at scale for question answering & neural search](https://github.com/deepset-ai/haystack)
 
 ## Datasets and Data
 [Back to Top](#contents)
@@ -137,6 +139,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Document Representation for Legal Texts](https://medium.com/doctrine/a-single-legal-text-representation-at-doctrine-the-legal-camembert-a5ee2b851763)
 - [Data Science for Lawyers - Learning Resources](https://www.datascienceforlawyers.org/learning-resources/)
 - [Coding for Lawyers (discontinued)](http://codingforlawyers.com/)
+- [Custom NLP Approaches to Data Anonymization](https://towardsdatascience.com/nlp-approaches-to-data-anonymization-1fb5bde6b929)
 
 ## Credits
 [Back to Top](#contents)
