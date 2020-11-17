@@ -58,6 +58,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - [NLP Overview](https://nlpoverview.com/)
 - [NLP Progress](https://nlpprogress.com/)
+- [Text Visualizations](https://textvis.lnu.se/)
 - [Optical Character Recognition](https://github.com/kba/awesome-ocr)
 - [Rule-based methods for NLP](https://github.com/topics/rule-based-nlp), [Apache Ruta](https://uima.apache.org/ruta.html), [Jape Grammar](https://gate.ac.uk/sale/thakker-jape-tutorial/GATE%20JAPE%20manual.pdf)
 - [Statistical NLP](https://github.com/uclnlp/stat-nlp-book) 
