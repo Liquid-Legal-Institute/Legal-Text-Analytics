@@ -142,6 +142,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Data Science for Lawyers - Learning Resources](https://www.datascienceforlawyers.org/learning-resources/)
 - [Coding for Lawyers (discontinued)](http://codingforlawyers.com/)
 - [Custom NLP Approaches to Data Anonymization](https://towardsdatascience.com/nlp-approaches-to-data-anonymization-1fb5bde6b929)
+- [Information Extraction in legal documents](https://medium.com/@NaturalTech/legaltech-information-extraction-in-legal-documents-e1843a60bc8d)
 
 ## Credits
 [Back to Top](#contents)
