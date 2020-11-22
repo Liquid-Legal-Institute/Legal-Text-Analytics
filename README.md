@@ -131,6 +131,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [University of Vienny - Department of Innovation and Digitalisation in Law](https://id.univie.ac.at/)
 - [University of Amsterdam - Leibniz Center for Law](http://www.leibnizcenter.org/)
 - [University of Helsinki - LegalTech Research Lab](https://www.helsinki.fi/en/networks/legal-tech-lab/research)
+- [Hofstra University - Law, Logic & Technology Research Laboratory](https://law.hofstra.edu/facultyandcenters/centers/lltlab/index.html)
 - [Computational Legal Studies](https://computationallegalstudies.com/)
 
 ## Tutorials
