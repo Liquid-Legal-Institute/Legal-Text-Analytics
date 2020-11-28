@@ -74,6 +74,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Apache UIMA](https://uima.apache.org/)
 - [Gate - General Architecture for Text Engineering](https://gate.ac.uk/)
 - [Transformers and re-trained embedding models](https://huggingface.co/) including [LegalBERT](https://arxiv.org/abs/2010.02559)
+- German Bert Model: [Deepset AI](https://deepset.ai/german-bert)
 - [Flair - SOTA NLP (incl. biomedical and legal data)](https://github.com/flairNLP/flair)
 - [Blackstone - Legal Named Entity Recognition and Text Categorizer](https://github.com/ICLRandD/Blackstone)
 - [Legal Reference Detection](https://github.com/neo-search/juristische-verweiserkennung), [Legal Reference Detection II](https://github.com/openlegaldata/legal-reference-extraction)
@@ -94,9 +95,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - Germany: [Gesetze im Internet](https://www.gesetze-im-internet.de/), [Rechtsprechung im Internet](http://www.rechtsprechung-im-internet.de/), [Verwaltungsvorschriften im Internet](http://www.verwaltungsvorschriften-im-internet.de/),[Annotated German Court Decisions (Judgment style)](https://zenodo.org/record/3936490), [German Federal Courts Dataset](https://www.richter-im-internet.de)
 - Switzerland: [Swiss Legislation Corpus](https://pub.cl.uzh.ch/corpora/PaCoCo/Swiss_Legislation_Corpus/) French and German
 - German NLP Ressources: [Awesome German NLP](https://github.com/adbar/German-NLP)
-- German Bert Model: [Deepset AI](https://deepset.ai/german-bert)
 - ECtHR: [Judicial Decisions of the European Court of Human Rights](https://github.com/masha-medvedeva/ECtHR_crystal_ball)
-- EU: [European Union Law (eurlex R Package)](https://cloud.r-project.org/web/packages/eurlex/index.html),[Digital Corpus of the European Parliament (DCEP)](https://ec.europa.eu/jrc/en/language-technologies/dcep) 
+- EU: [European Union Law (eurlex R Package)](https://cloud.r-project.org/web/packages/eurlex/index.html), [Digital Corpus of the European Parliament (DCEP)](https://ec.europa.eu/jrc/en/language-technologies/dcep) 
 - Canada: [Federal Laws and Regulations](ftp://205.193.86.89/) 
 - UK: [UK Law Reports & Case Law Search](https://www.iclr.co.uk/)
 - USA: [Caselaw Access Project](https://case.law)
