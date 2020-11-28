@@ -100,6 +100,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - Canada: [Federal Laws and Regulations](ftp://205.193.86.89/) 
 - UK: [UK Law Reports & Case Law Search](https://www.iclr.co.uk/)
 - USA: [Caselaw Access Project](https://case.law)
+- USA: [Supreme Court Database](http://scdb.wustl.edu/)
 - Israel: [The Israeli Supreme Court Database](https://iscd.huji.ac.il/data)
 - United Nations: [United Nations General Debate Corpus](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y), [United Nations Parallel Corpus](https://conferences.unite.un.org/uncorpus)
 - International Law: [Text of Trade Agreements (ToTA)](https://github.com/mappingtreaties/tota/tree/master/xml), [Electronic Database on Investment Treaties (EDIT)](https://edit.wti.org/document/investment-treaty/search)
