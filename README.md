@@ -79,6 +79,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Blackstone - Legal Named Entity Recognition and Text Categorizer](https://github.com/ICLRandD/Blackstone)
 - [Legal Reference Detection](https://github.com/neo-search/juristische-verweiserkennung), [Legal Reference Detection II](https://github.com/openlegaldata/legal-reference-extraction)
 - [Haystack - Transformers at scale for question answering & neural search](https://github.com/deepset-ai/haystack)
+- [Tisane - NLP API and SDK for law enforcement](https://tisane.ai/detect-online-abuse)
 
 ## Datasets and Data
 [Back to Top](#contents)
