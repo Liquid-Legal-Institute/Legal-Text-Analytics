@@ -14,7 +14,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Contents
 
-* [Selected Use Cases](#selected-use-cases)
+* [Selected Tasks and Use Cases](#selected-tasks-and-use-cases)
 * [Methods](#methods)
 * [Libraries](#libraries)
 * [Datasets and Data](#datasets-and-data)
@@ -33,7 +33,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [LTA in French](#nlp-in-german)--->
 * [Credits](#credits)
 
-## Selected Use Cases
+## Selected Tasks and Use Cases
 [Back to Top](#contents)
 
 - [Optical Character Recognition](https://en.wikipedia.org/wiki/Optical_character_recognition) (find more information [here](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/blob/use-case-details/use-cases-details.md#optical-character-recognition))
