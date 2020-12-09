@@ -79,6 +79,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Blackstone - Legal Named Entity Recognition and Text Categorizer](https://github.com/ICLRandD/Blackstone)
 - [Legal Reference Detection](https://github.com/neo-search/juristische-verweiserkennung), [Legal Reference Detection II](https://github.com/openlegaldata/legal-reference-extraction)
 - [Haystack - Transformers at scale for question answering & neural search](https://github.com/deepset-ai/haystack)
+- [Sentence Boundary Detection (US Caselaw)](https://github.com/jsavelka/luima_sbd)
 
 ## Datasets and Data
 [Back to Top](#contents)
@@ -105,13 +106,19 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - United Nations: [United Nations General Debate Corpus](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y), [United Nations Parallel Corpus](https://conferences.unite.un.org/uncorpus)
 - International Law: [Text of Trade Agreements (ToTA)](https://github.com/mappingtreaties/tota/tree/master/xml), [Electronic Database on Investment Treaties (EDIT)](https://edit.wti.org/document/investment-treaty/search)
 - Meta Search: [Google Dataset Search](https://datasetsearch.research.google.com/)
-- Overview of Political Science Datasets: [PolData](https://github.com/erikgahner/PolData) 
+- Overview of Political Science Datasets: [PolData](https://github.com/erikgahner/PolData)
+- [US Caselaw Sentence Boundary Detection Dataset](https://github.com/jsavelka/sbd_adjudicatory_dec.git)
+- [US Caselaw Functional and Issue Specific Segmentation Dataset](https://github.com/jsavelka/us-dec-func-iss-sgm/tree/master)
+- [US Statutory Law Interpretation Data Set](https://github.com/jsavelka/statutory_interpretation)
+- [European Court of Human Rights Argument Mining Corpus](http://www.di.uevora.pt/~pq/echr/)
 
 ## Annotation and Data Schemes
 [Back to Top](#contents)
 
 - [Annotation guidelines for Legal Entity Recognition (Germany)](https://github.com/elenanereiss/Legal-Entity-Recognition/blob/master/docs/Annotationsrichtlinien.pdf)
 - [Semantic Types of Legal Norms](https://wwwmatthes.in.tum.de/file/18x0ledera9rh/Sebis-Public-Website/-/Semantic-Types-of-Legal-Norms-in-German-Laws-Classification-and-Analysis-Using-Local-Linear-Explanations/Wa18c.pdf)
+- [Annotation Guidelines for Sentence Boundary Detection in Caselaw (US)](https://github.com/jsavelka/sbd_adjudicatory_dec/blob/master/LLT_sentence_annotation_protocol.md)
+- [Annotation Guidelines for Sentence Value in Statutory Interpretation (US)](https://github.com/jsavelka/statutory_interpretation/blob/master/annotation_guidelines_v2.pdf)
 
 ## Annotation Tools
 [Back to Top](#contents)
