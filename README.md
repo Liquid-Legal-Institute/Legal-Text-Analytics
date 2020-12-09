@@ -79,6 +79,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Blackstone - Legal Named Entity Recognition and Text Categorizer](https://github.com/ICLRandD/Blackstone)
 - [Legal Reference Detection](https://github.com/neo-search/juristische-verweiserkennung), [Legal Reference Detection II](https://github.com/openlegaldata/legal-reference-extraction)
 - [Haystack - Transformers at scale for question answering & neural search](https://github.com/deepset-ai/haystack)
+- [Sentence Boundary Detection (US Caselaw)](https://github.com/jsavelka/luima_sbd)
 
 ## Datasets and Data
 [Back to Top](#contents)
@@ -105,7 +106,10 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - United Nations: [United Nations General Debate Corpus](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y), [United Nations Parallel Corpus](https://conferences.unite.un.org/uncorpus)
 - International Law: [Text of Trade Agreements (ToTA)](https://github.com/mappingtreaties/tota/tree/master/xml), [Electronic Database on Investment Treaties (EDIT)](https://edit.wti.org/document/investment-treaty/search)
 - Meta Search: [Google Dataset Search](https://datasetsearch.research.google.com/)
-- Overview of Political Science Datasets: [PolData](https://github.com/erikgahner/PolData) 
+- Overview of Political Science Datasets: [PolData](https://github.com/erikgahner/PolData)
+- [US Caselaw Sentence Boundary Detection Dataset](https://github.com/jsavelka/sbd_adjudicatory_dec.git)
+- [US Caselaw Functional and Issue Specific Segmentation Dataset](https://github.com/jsavelka/us-dec-func-iss-sgm/tree/master)
+- [US Statutory Law Interpretation Data Set](https://github.com/jsavelka/statutory_interpretation)
 
 ## Annotation and Data Schemes
 [Back to Top](#contents)
