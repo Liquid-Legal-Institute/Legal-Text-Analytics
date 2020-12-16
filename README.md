@@ -52,6 +52,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Voice Transcription](https://en.wikipedia.org/wiki/Speech_recognition)
 - [Anomaly Detection](https://en.wikipedia.org/wiki/Anomaly_detection)
 - [Data Anonymization](https://en.wikipedia.org/wiki/Data_anonymization)
+- [Consistency Checking](https://arxiv.org/pdf/2012.08150.pdf)
 
 ## Methods
 [Back to Top](#contents)
