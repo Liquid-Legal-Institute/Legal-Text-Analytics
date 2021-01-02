@@ -85,6 +85,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Datasets and Data
 [Back to Top](#contents)
 - [NLP Datasets](https://github.com/niderhoff/nlp-datasets)
+- [An 800GB Dataset of Diverse Text for Language Modeling](https://pile.eleuther.ai/)
 - [OpenLegalData](https://openlegaldata.io/)
 - [Legal Entity Recognition](https://github.com/elenanereiss/Legal-Entity-Recognition)
 - [Legal Text Summarization](https://mediatum.ub.tum.de/670493?show_id=1446654)
