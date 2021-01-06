@@ -113,6 +113,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [US Caselaw Functional and Issue Specific Segmentation Dataset](https://github.com/jsavelka/us-dec-func-iss-sgm/tree/master)
 - [US Statutory Law Interpretation Data Set](https://github.com/jsavelka/statutory_interpretation)
 - [European Court of Human Rights Argument Mining Corpus](http://www.di.uevora.pt/~pq/echr/)
+- France: [The French Court Decision Structure dataset — FCD12K](http://datasets.doctrine.fr/)
 
 ## Annotation and Data Schemes
 [Back to Top](#contents)
