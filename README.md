@@ -139,11 +139,12 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Bucerius Center on the Legal Profession](https://www.law-school.de/forschung-fakultaet/institute-und-zentren/center-on-the-legal-profession)
 - [Suffolk Law School - Legal Innovation & Technology (LIT) Lab](https://suffolklitlab.org) 
 - [University of Ottawa - Legal Technology Lab](https://techlaw.uottawa.ca/initiatives/legaltechlab)
-- [University of Vienny - Department of Innovation and Digitalisation in Law](https://id.univie.ac.at/)
+- [University of Vienna - Department of Innovation and Digitalisation in Law](https://id.univie.ac.at/)
 - [University of Amsterdam - Leibniz Center for Law](http://www.leibnizcenter.org/)
 - [University of Helsinki - LegalTech Research Lab](https://www.helsinki.fi/en/networks/legal-tech-lab/research)
 - [Hofstra University - Law, Logic & Technology Research Laboratory](https://law.hofstra.edu/facultyandcenters/centers/lltlab/index.html)
 - [Computational Legal Studies](https://computationallegalstudies.com/)
+- [CIRSFID-AI – University of Bologna](http://www.cirsfid.unibo.it/)
 
 ## Tutorials
 [Back to Top](#contents)
