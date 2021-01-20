@@ -97,7 +97,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Legal Paper Datasets](https://github.com/thunlp/LegalPapers#datasets)
 - [Awesome Legal Data](https://github.com/openlegaldata/awesome-legal-data)
 - Germany: [Gesetze im Internet](https://www.gesetze-im-internet.de/), [Rechtsprechung im Internet](http://www.rechtsprechung-im-internet.de/), [Verwaltungsvorschriften im Internet](http://www.verwaltungsvorschriften-im-internet.de/)
-- Germnay: [Annotated Court Decisions (Judgment style)](https://zenodo.org/record/3936490)
+- Germany: [Annotated Court Decisions (Judgment style)](https://zenodo.org/record/3936490)
 - Germany: [German Federal Courts Dataset](https://www.richter-im-internet.de)
 - German NLP Ressources: [Awesome German NLP](https://github.com/adbar/German-NLP)
 - France: [The French Court Decision Structure dataset — FCD12K](http://datasets.doctrine.fr/)
