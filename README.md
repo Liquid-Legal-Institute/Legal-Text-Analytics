@@ -81,6 +81,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Legal Reference Detection](https://github.com/neo-search/juristische-verweiserkennung), [Legal Reference Detection II](https://github.com/openlegaldata/legal-reference-extraction)
 - [Haystack - Transformers at scale for question answering & neural search](https://github.com/deepset-ai/haystack)
 - [Sentence Boundary Detection (US Caselaw)](https://github.com/jsavelka/luima_sbd)
+- [Quantitative Legal Studies](https://github.com/QuantLaw)
 
 ## Datasets and Data
 [Back to Top](#contents)
@@ -114,6 +115,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [US Caselaw Sentence Polarity Detection](https://github.com/vernrwalker/FindingSentencePolarity)
 - [US Caselaw Access Project](https://case.law)
 - [US Supreme Court Database](http://scdb.wustl.edu/)
+- [US House of Representatives Office of the Law Revision Counsel] (https://uscode.house.gov/download/annualhistoricalarchives/downloadxhtml.shtml)
 - Overview of Political Science Datasets: [PolData](https://github.com/erikgahner/PolData)
 - International Law: [Text of Trade Agreements (ToTA)](https://github.com/mappingtreaties/tota/tree/master/xml), [Electronic Database on Investment Treaties (EDIT)](https://edit.wti.org/document/investment-treaty/search)
 - United Nations: [United Nations General Debate Corpus](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y), [United Nations Parallel Corpus](https://conferences.unite.un.org/uncorpus)
