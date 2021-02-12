@@ -106,7 +106,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - Switzerland: [Swiss Legislation Corpus](https://pub.cl.uzh.ch/corpora/PaCoCo/Swiss_Legislation_Corpus/) French and German
 - ECtHR: [Judicial Decisions of the European Court of Human Rights](https://github.com/masha-medvedeva/ECtHR_crystal_ball)
 - [European Court of Human Rights Argument Mining Corpus](http://www.di.uevora.pt/~pq/echr/)
-- EU: [European Union Law (eurlex R Package)](https://cloud.r-project.org/web/packages/eurlex/index.html), [Digital Corpus of the European Parliament (DCEP)](https://ec.europa.eu/jrc/en/language-technologies/dcep) 
+- EU [Law (eurlex R Package)](https://cloud.r-project.org/web/packages/eurlex/index.html), [Digital Corpus of the European Parliament (DCEP)](https://ec.europa.eu/jrc/en/language-technologies/dcep) 
+- EU [Regulatory Compliance Information Retrieval](https://archive.org/details/eacl2021_regir_datasets)
 - Israel: [The Israeli Supreme Court Database](https://iscd.huji.ac.il/data)
 - Canada: [Federal Laws and Regulations](ftp://205.193.86.89/) (ftp://205.193.86.89/)
 - UK: [UK Law Reports & Case Law Search](https://www.iclr.co.uk/)
