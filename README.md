@@ -66,6 +66,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Statistical NLP](https://github.com/uclnlp/stat-nlp-book) 
 - [Machine Learning Frameworks](https://github.com/josephmisiti/awesome-machine-learning)
 - [Neural networks and deep learning for NLP Tutorial](https://github.com/graykode/nlp-tutorial)
+- Domain adaptation (e.g., [research paper](https://arxiv.org/pdf/2102.05757.pdf))
 
 ## Libraries
 [Back to Top](#contents)
