@@ -83,6 +83,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Haystack - Transformers at scale for question answering & neural search](https://github.com/deepset-ai/haystack)
 - [Sentence Boundary Detection (US Caselaw)](https://github.com/jsavelka/luima_sbd)
 - [Quantitative Legal Studies](https://github.com/QuantLaw)
+- [CiteURL - an extensible tool to detect and hyperlink legal citations](https://github.com/raindrum/citeurl/)
 
 ## Datasets and Data
 [Back to Top](#contents)
