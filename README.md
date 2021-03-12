@@ -36,10 +36,10 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Selected Tasks and Use Cases
 [Back to Top](#contents)
 
-- [Optical Character Recognition](https://en.wikipedia.org/wiki/Optical_character_recognition) (find more information [here](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/blob/use-case-details/use-cases-details.md#optical-character-recognition))
-- Legal [Document Pre-processing](https://towardsdatascience.com/nlp-text-preprocessing-a-practical-guide-and-template-d80874676e79) (find more information [here](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/blob/use-case-details/use-cases-details.md#legal-document-pre-processing))
+- [Optical Character Recognition](https://en.wikipedia.org/wiki/Optical_character_recognition) (find more information [here](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/blob/main/use-cases-details.md#optical-character-recognition))
+- Legal [Document Pre-processing](https://towardsdatascience.com/nlp-text-preprocessing-a-practical-guide-and-template-d80874676e79) (find more information [here](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/blob/main/use-cases-details.md#legal-document-pre-processing))
 - Clause [Segmentation](https://en.wikipedia.org/wiki/Segment_(linguistics)) and [Sentence Boundary Detection](https://en.wikipedia.org/wiki/Sentence_boundary_disambiguation)
-- [Information Extraction](https://en.wikipedia.org/wiki/Information_extraction) and [Named Entity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition) (find more information [here](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/blob/use-case-details/use-cases-details.md#information-extraction))
+- [Information Extraction](https://en.wikipedia.org/wiki/Information_extraction) and [Named Entity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition) (find more information [here](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/blob/main/use-cases-details.md#information-extraction))
 - [Legal Norm Classification](https://en.wikipedia.org/wiki/Legal_norm#Ontological_model_of_legal_norms)
 - [Machine Translation](https://en.wikipedia.org/wiki/Machine_translation)
 - [Document Comparison](https://en.wikipedia.org/wiki/Document_comparison) and [Semantic Matching](https://en.wikipedia.org/wiki/Semantic_matching)
