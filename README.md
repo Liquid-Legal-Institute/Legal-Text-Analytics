@@ -131,6 +131,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Semantic Types of Legal Norms](https://wwwmatthes.in.tum.de/file/18x0ledera9rh/Sebis-Public-Website/-/Semantic-Types-of-Legal-Norms-in-German-Laws-Classification-and-Analysis-Using-Local-Linear-Explanations/Wa18c.pdf)
 - [Annotation Guidelines for Sentence Boundary Detection in Caselaw (US)](https://github.com/jsavelka/sbd_adjudicatory_dec/blob/master/LLT_sentence_annotation_protocol.md)
 - [Annotation Guidelines for Sentence Value in Statutory Interpretation (US)](https://github.com/jsavelka/statutory_interpretation/blob/master/annotation_guidelines_v2.pdf)
+- [SALI: Modern Legal Industry Standards](https://www.sali.org/)
 
 ## Annotation Tools
 [Back to Top](#contents)
