@@ -18,7 +18,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Methods](#methods)
 * [Libraries](#libraries)
 * [Datasets and Data](#datasets-and-data)
-* [Annotation and Data Schemes](#annotations-schemes-and-data-schemes)
+* [Annotation and Data Schemes](#annotation-schemes-and-data-schemes)
 * [Annotation Tools](#annotation-tools)
 * [Research Groups and Labs](#research-groups-and-labs)
 * [Tutorials](#tutorials)
