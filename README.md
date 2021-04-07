@@ -56,7 +56,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Methods
 [Back to Top](#contents)
-[issues](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/issues)
 
 - [NLP Overview](https://nlpoverview.com/)
 - [NLP Progress](https://nlpprogress.com/)
