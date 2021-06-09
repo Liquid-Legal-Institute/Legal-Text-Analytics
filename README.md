@@ -20,7 +20,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Datasets and Data](#datasets-and-data)
 * [Annotation and Data Schemes](#annotation-and-data-schemes)
 * [Annotation Tools](#annotation-tools)
-* [Research Groups and Labs](#research-groups-and-labs)
+* [Research Groups and Labs](#research-groups-labs-and-communities)
 * [Tutorials](#tutorials)
 <!---* [Conferences](#conferences)--->
 <!---* [Tutorials and Online Courses](#tutorials)
@@ -142,7 +142,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Doccano](https://github.com/doccano/doccano)
 - [Brat](https://brat.nlplab.org/)
 
-## Research Groups and Labs
+## Research Groups, Labs, and Communities
 [Back to Top](#contents)
 
 - [Stanford University - CodeX: The Stanford Center for Legal Informatics](https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/)
@@ -156,6 +156,9 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Hofstra University - Law, Logic & Technology Research Laboratory](https://law.hofstra.edu/facultyandcenters/centers/lltlab/index.html)
 - [Computational Legal Studies](https://computationallegalstudies.com/)
 - [CIRSFID-AI – University of Bologna](http://www.cirsfid.unibo.it/)
+- [IAAIL - International Association for AI and Law](http://www.iaail.org/)
+- [ASAIL - Automated Detection, Extraction and Analysis of Semantic Information in Legal Texts](https://icail.lawgorithm.com.br/workshop/asail/)
+- [Workshop on Natural Legal Language Processing: Papers, models, data sets, and related events](https://nllpw.org/)
 
 ## Tutorials
 [Back to Top](#contents)
