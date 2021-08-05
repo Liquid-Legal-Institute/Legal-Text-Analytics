@@ -123,7 +123,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - United Nations: [United Nations General Debate Corpus](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y), [United Nations Parallel Corpus](https://conferences.unite.un.org/uncorpus)
 - [Contract Understanding Atticus Dataset](https://www.atticusprojectai.org/cuad) by [The Atticus Project](https://www.atticusprojectai.org/): A corpus of 13,000+ labels in 510 commercial legal contracts with rich expert annotations.
 - [Kira Systems M&A Dataset](https://kirasystems.com/science/dataset-and-examination-of-passages-for-due-diligence/) by [Kira Systems](https://kirasystems.com/): A non-commercial use dataset comprising 4,400 documents and labels for 50 legal concepts in the M&A Due Diligence setting.
-
+- [Prediction of Outcomes in the Higher Courts of Turkey](https://github.com/koc-lab/law-turk): Code to reproduce results given in ["Natural Language Processing in Law: Prediction of outcomes in the Higher Courts of Turkey" by Emre Mumcuoğlu, Ceyhun E. Öztürk, Haldun M. Ozaktas and Aykut Koç](https://doi.org/10.1016/j.ipm.2021.102684).
 
 ## Annotation and Data Schemes
 [Back to Top](#contents)
