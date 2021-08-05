@@ -104,6 +104,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - German NLP Resources: [Awesome German NLP](https://github.com/adbar/German-NLP)
 - France: [The French Court Decision Structure dataset — FCD12K](http://datasets.doctrine.fr/)
 - Switzerland: [Swiss Legislation Corpus](https://pub.cl.uzh.ch/corpora/PaCoCo/Swiss_Legislation_Corpus/) French and German
+- Turkey: [Prediction of Outcomes in the Higher Courts of Turkey](https://github.com/koc-lab/law-turk)
 - ECtHR: [Judicial Decisions of the European Court of Human Rights](https://github.com/masha-medvedeva/ECtHR_crystal_ball)
 - [European Court of Human Rights Argument Mining Corpus](http://www.di.uevora.pt/~pq/echr/)
 - EU [Law (eurlex R Package)](https://cloud.r-project.org/web/packages/eurlex/index.html), [Digital Corpus of the European Parliament (DCEP)](https://ec.europa.eu/jrc/en/language-technologies/dcep) 
@@ -118,12 +119,12 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [US Caselaw Access Project](https://case.law)
 - [US Supreme Court Database](http://scdb.wustl.edu/)
 - [US House of Representatives Office of the Law Revision Counsel](https://uscode.house.gov/download/annualhistoricalarchives/downloadxhtml.shtml)
+
 - Overview of Political Science Datasets: [PolData](https://github.com/erikgahner/PolData)
 - International Law: [Text of Trade Agreements (ToTA)](https://github.com/mappingtreaties/tota/tree/master/xml), [Electronic Database on Investment Treaties (EDIT)](https://edit.wti.org/document/investment-treaty/search)
 - United Nations: [United Nations General Debate Corpus](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y), [United Nations Parallel Corpus](https://conferences.unite.un.org/uncorpus)
 - [Contract Understanding Atticus Dataset](https://www.atticusprojectai.org/cuad) by [The Atticus Project](https://www.atticusprojectai.org/): A corpus of 13,000+ labels in 510 commercial legal contracts with rich expert annotations.
 - [Kira Systems M&A Dataset](https://kirasystems.com/science/dataset-and-examination-of-passages-for-due-diligence/) by [Kira Systems](https://kirasystems.com/): A non-commercial use dataset comprising 4,400 documents and labels for 50 legal concepts in the M&A Due Diligence setting.
-- [Prediction of Outcomes in the Higher Courts of Turkey](https://github.com/koc-lab/law-turk): Code to reproduce results given in ["Natural Language Processing in Law: Prediction of outcomes in the Higher Courts of Turkey"](https://doi.org/10.1016/j.ipm.2021.102684).
 
 ## Annotation and Data Schemes
 [Back to Top](#contents)
