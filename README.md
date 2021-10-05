@@ -97,6 +97,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Legal Sentence Classification (German)](https://github.com/sebischair/Legal-Sentence-Classification-Datasets-and-Models)
 - [100k German Court Decisions](http://openlegaldata.io/research/2019/02/19/court-decision-dataset.html)
 - [Legal Paper Datasets](https://github.com/thunlp/LegalPapers#datasets)
+- [LexGLUE](https://arxiv.org/abs/2110.00976): a Benchmark Dataset for Legal Language Understanding in English
 - [Awesome Legal Data](https://github.com/openlegaldata/awesome-legal-data)
 - Germany: [Gesetze im Internet](https://www.gesetze-im-internet.de/), [Rechtsprechung im Internet](http://www.rechtsprechung-im-internet.de/), [Verwaltungsvorschriften im Internet](http://www.verwaltungsvorschriften-im-internet.de/)
 - Germany: [Annotated Court Decisions (Judgment style)](https://zenodo.org/record/3936490)
