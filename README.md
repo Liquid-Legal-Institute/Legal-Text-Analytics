@@ -161,6 +161,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [IAAIL - International Association for AI and Law](http://www.iaail.org/)
 - [ASAIL - Automated Detection, Extraction and Analysis of Semantic Information in Legal Texts](https://icail.lawgorithm.com.br/workshop/asail/)
 - [Workshop on Natural Legal Language Processing: Papers, models, data sets, and related events](https://nllpw.org/)
+- [Chinese AI and Law (CAIL)](http://cail.cipsc.org.cn/index.html)
 
 ## Tutorials
 [Back to Top](#contents)
