@@ -106,6 +106,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - France: [The French Court Decision Structure dataset — FCD12K](http://datasets.doctrine.fr/)
 - Switzerland: [Swiss Legislation Corpus](https://pub.cl.uzh.ch/corpora/PaCoCo/Swiss_Legislation_Corpus/) French and German
 - Turkey: [Prediction of Outcomes in the Higher Courts of Turkey](https://github.com/koc-lab/law-turk)
+- India: [Indian Legal Documents Corpus for Court Judgment Prediction and Explanation](https://github.com/Exploration-Lab/CJPE)
 - ECtHR: [Judicial Decisions of the European Court of Human Rights](https://github.com/masha-medvedeva/ECtHR_crystal_ball)
 - [European Court of Human Rights Argument Mining Corpus](http://www.di.uevora.pt/~pq/echr/)
 - EU [Law (eurlex R Package)](https://cloud.r-project.org/web/packages/eurlex/index.html), [Digital Corpus of the European Parliament (DCEP)](https://ec.europa.eu/jrc/en/language-technologies/dcep) 
