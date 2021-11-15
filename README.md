@@ -83,6 +83,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Sentence Boundary Detection (US Caselaw)](https://github.com/jsavelka/luima_sbd)
 - [Quantitative Legal Studies](https://github.com/QuantLaw)
 - [CiteURL - an extensible tool to detect and hyperlink legal citations](https://github.com/raindrum/citeurl/)
+- [LexNLP](https://github.com/LexPredict/lexpredict-lexnlp) – Python NLP library for legal text analytics
 
 ## Datasets and Data
 [Back to Top](#contents)
