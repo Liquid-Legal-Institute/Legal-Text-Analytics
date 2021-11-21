@@ -91,6 +91,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [An 800GB Dataset of Diverse Text for Language Modeling](https://pile.eleuther.ai/)
 - Meta Search: [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [OpenLegalData](https://openlegaldata.io/)
+- German NLP Resource: [Awesome German NLP](https://github.com/adbar/German-NLP)
 - [Legal Entity Recognition](https://github.com/elenanereiss/Legal-Entity-Recognition)
 - [Legal Text Summarization](https://mediatum.ub.tum.de/670493?show_id=1446654)
 - [Legal Text Translation](https://mediatum.ub.tum.de/670493?show_id=1446655)
@@ -103,7 +104,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - Germany: [Gesetze im Internet](https://www.gesetze-im-internet.de/), [Rechtsprechung im Internet](http://www.rechtsprechung-im-internet.de/), [Verwaltungsvorschriften im Internet](http://www.verwaltungsvorschriften-im-internet.de/)
 - Germany: [Annotated Court Decisions (Judgment style)](https://zenodo.org/record/3936490)
 - Germany: [German Federal Courts Dataset](https://www.richter-im-internet.de)
-- German NLP Resources: [Awesome German NLP](https://github.com/adbar/German-NLP)
+- Germany: Quantitative dataset of asylum court hearings at German administrative courts. [ASYFAIR](https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.sxksn032f)
 - France: [The French Court Decision Structure dataset — FCD12K](http://datasets.doctrine.fr/)
 - Switzerland: [Swiss Legislation Corpus](https://pub.cl.uzh.ch/corpora/PaCoCo/Swiss_Legislation_Corpus/) French and German
 - Turkey: [Prediction of Outcomes in the Higher Courts of Turkey](https://github.com/koc-lab/law-turk)
