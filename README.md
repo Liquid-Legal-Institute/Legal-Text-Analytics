@@ -164,6 +164,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [ASAIL - Automated Detection, Extraction and Analysis of Semantic Information in Legal Texts](https://icail.lawgorithm.com.br/workshop/asail/)
 - [Workshop on Natural Legal Language Processing: Papers, models, data sets, and related events](https://nllpw.org/)
 - [Chinese AI and Law (CAIL)](http://cail.cipsc.org.cn/index.html)
+- [University of Copenhagen, iCourts, the Danish National Research Foundation's Centre of Excellence for International Courts](https://jura.ku.dk/icourts/)
 
 ## Tutorials
 [Back to Top](#contents)
