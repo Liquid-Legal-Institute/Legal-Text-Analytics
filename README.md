@@ -87,6 +87,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Datasets and Data
 [Back to Top](#contents)
+- [BUILDNyAI](https://github.com/Legal-NLP-EkStep/rhetorical-role-baseline)
 - [NLP Datasets](https://github.com/niderhoff/nlp-datasets)
 - [An 800GB Dataset of Diverse Text for Language Modeling](https://pile.eleuther.ai/)
 - Meta Search: [Google Dataset Search](https://datasetsearch.research.google.com/)
