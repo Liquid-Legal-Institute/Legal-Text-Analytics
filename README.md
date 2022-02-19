@@ -124,6 +124,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [US Caselaw Access Project](https://case.law)
 - [US Supreme Court Database](http://scdb.wustl.edu/)
 - [US House of Representatives Office of the Law Revision Counsel](https://uscode.house.gov/download/annualhistoricalarchives/downloadxhtml.shtml)
+- US Board of Veterans Appeals (BVA) Citation Prediction [Dataset](https://reglab.stanford.edu/data/bva-case-citation-dataset) and [Code](https://github.com/TUMLegalTech/bva-citation-prediction)
 - Overview of Political Science Datasets: [PolData](https://github.com/erikgahner/PolData)
 - International Law: [Text of Trade Agreements (ToTA)](https://github.com/mappingtreaties/tota/tree/master/xml), [Electronic Database on Investment Treaties (EDIT)](https://edit.wti.org/document/investment-treaty/search)
 - United Nations: [United Nations General Debate Corpus](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y), [United Nations Parallel Corpus](https://conferences.unite.un.org/uncorpus)
@@ -152,6 +153,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - [Stanford University - CodeX: The Stanford Center for Legal Informatics](https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/)
 - [Technical University of Munich](https://wwwmatthes.in.tum.de/pages/9vnvmfknjsc/LegalTech-NLP-KR-ML-NLG)
+- [Technical University of Munich - Legal Tech Group](https://www.in.tum.de/legaltech/home/)
 - [Bucerius Center on the Legal Profession](https://www.law-school.de/forschung-fakultaet/institute-und-zentren/center-on-the-legal-profession)
 - [Suffolk Law School - Legal Innovation & Technology (LIT) Lab](https://suffolklitlab.org) 
 - [University of Ottawa - Legal Technology Lab](https://techlaw.uottawa.ca/initiatives/legaltechlab)
