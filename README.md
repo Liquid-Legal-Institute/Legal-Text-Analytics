@@ -106,6 +106,16 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - Germany: [Annotated Court Decisions (Judgment style)](https://zenodo.org/record/3936490)
 - Germany: [German Federal Courts Dataset](https://www.richter-im-internet.de)
 - Germany: Quantitative dataset of asylum court hearings at German administrative courts. [ASYFAIR](https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.sxksn032f)
+- Germany: [Aktenzeichen der Bundesrepublik Deutschland (AZ-BRD)](https://doi.org/10.5281/zenodo.4559383)
+- Germany: [Corpus des Deutschen Bundesrechts (C-DBR)](https://doi.org/10.5281/zenodo.3832111)
+- Germany: [Corpus der Entscheidungen des Bundesverfassungsgerichts (CE-BVerfG)](https://doi.org/10.5281/zenodo.3902658)
+- Germany: [Corpus der amtlichen Entscheidungssammlung des Bundesverfassungsgerichts (C-BVerfGE)](https://doi.org/10.5281/zenodo.3831111)
+- Germany: [Corona-Rechtsprechung des Bundesverfassungsgerichts (BVerfG-Corona)](https://doi.org/10.5281/zenodo.4459405)
+- Germany: [Corpus der Entscheidungen des Bundesverwaltungsgerichts (CE-BVerwG)](https://doi.org/10.5281/zenodo.3911067)
+- Germany: [Corpus der Entscheidungen des Bundesarbeitsgerichts (CE-BAG)](https://doi.org/10.5281/zenodo.4006644)
+- Germany: [Corpus der Entscheidungen des Bundespatentgerichts (CE-BPatG)](https://doi.org/10.5281/zenodo.3954850)
+- Germany: [Presidents and Vice-Presidents of the Federal Courts of Germany (PVP-FCG)](https://doi.org/10.5281/zenodo.4568681)
+- Germany: [Stoppwörter der Deutschen Rechtssprache (SW-DE-RS)](https://doi.org/10.5281/zenodo.3995593)
 - France: [The French Court Decision Structure dataset — FCD12K](http://datasets.doctrine.fr/)
 - Switzerland: [Swiss Legislation Corpus](https://pub.cl.uzh.ch/corpora/PaCoCo/Swiss_Legislation_Corpus/) French and German
 - Turkey: [Prediction of Outcomes in the Higher Courts of Turkey](https://github.com/koc-lab/law-turk)
@@ -127,6 +137,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - US Board of Veterans Appeals (BVA) Citation Prediction [Dataset](https://reglab.stanford.edu/data/bva-case-citation-dataset) and [Code](https://github.com/TUMLegalTech/bva-citation-prediction)
 - Overview of Political Science Datasets: [PolData](https://github.com/erikgahner/PolData)
 - International Law: [Text of Trade Agreements (ToTA)](https://github.com/mappingtreaties/tota/tree/master/xml), [Electronic Database on Investment Treaties (EDIT)](https://edit.wti.org/document/investment-treaty/search)
+- International Law: [Corpus of Decisions: International Court of Justice (CD-ICJ)](https://doi.org/10.5281/zenodo.3826444)
+- International Law: [Corpus of Decisions: Permanent Court of International Justice (CD-PCIJ)](https://doi.org/10.5281/zenodo.3840479)
 - United Nations: [United Nations General Debate Corpus](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y), [United Nations Parallel Corpus](https://conferences.unite.un.org/uncorpus)
 - [Contract Understanding Atticus Dataset](https://www.atticusprojectai.org/cuad) by [The Atticus Project](https://www.atticusprojectai.org/): A corpus of 13,000+ labels in 510 commercial legal contracts with rich expert annotations.
 - [Kira Systems M&A Dataset](https://kirasystems.com/science/dataset-and-examination-of-passages-for-due-diligence/) by [Kira Systems](https://kirasystems.com/): A non-commercial use dataset comprising 4,400 documents and labels for 50 legal concepts in the M&A Due Diligence setting.
