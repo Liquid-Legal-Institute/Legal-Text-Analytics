@@ -47,6 +47,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Argument Mining](https://en.wikipedia.org/wiki/Argument_mining)
 - [Question Answering](https://en.wikipedia.org/wiki/Question_answering)
 - Legal Case Outcome Prediction
+- Legal and Regulatory Monitoring
 - [Reference and Coreference Extraction](https://en.wikipedia.org/wiki/Coreference)
 - [Document Assembling and Generation](https://en.wikipedia.org/wiki/Document_automation)
 - [Voice Transcription](https://en.wikipedia.org/wiki/Speech_recognition)
