@@ -12,6 +12,8 @@ A list of selected resources, methods, and tools dedicated to Legal Text Analyti
 
 _Please read the [contribution guidelines](contributing.md) before contributing. Please add a resource by raising a [pull request](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/pulls). We also seek for discussion and proposal of new ideas (including additional content sections) as [issues](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/issues)._
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W1FF5NN)
+
 ## Contents
 
 * [Selected Tasks and Use Cases](#selected-tasks-and-use-cases)
@@ -193,7 +195,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Coding for Lawyers (discontinued)](http://codingforlawyers.com/)
 - [Custom NLP Approaches to Data Anonymization](https://towardsdatascience.com/nlp-approaches-to-data-anonymization-1fb5bde6b929)
 - [Information Extraction in legal documents](https://medium.com/@NaturalTech/legaltech-information-extraction-in-legal-documents-e1843a60bc8d)
-- [Legal NLP: Sentence classification and Explainable AI](https://colab.research.google.com/drive/179qJIpFhY9id7XdMxVokPC2RVR0L5pmB?usp=sharing)
+- [Legal NLP: Sentence classification and Explainable AI](https://github.com/bwaltl/LegalSentenceClassification)
 
 ## Credits
 [Back to Top](#contents)
