@@ -195,6 +195,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Custom NLP Approaches to Data Anonymization](https://towardsdatascience.com/nlp-approaches-to-data-anonymization-1fb5bde6b929)
 - [Information Extraction in legal documents](https://medium.com/@NaturalTech/legaltech-information-extraction-in-legal-documents-e1843a60bc8d)
 - [Legal NLP: Sentence classification and Explainable AI](https://github.com/bwaltl/LegalSentenceClassification)
+- [Legal AI Glossary](https://www.simplexico.ai/glossary)
 
 ## Credits
 [Back to Top](#contents)
