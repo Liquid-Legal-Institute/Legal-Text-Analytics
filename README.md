@@ -87,6 +87,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Quantitative Legal Studies](https://github.com/QuantLaw)
 - [CiteURL - an extensible tool to detect and hyperlink legal citations](https://github.com/raindrum/citeurl/)
 - [LexNLP](https://github.com/LexPredict/lexpredict-lexnlp) – Python NLP library for legal text analytics
+- [Dutch Case Law Extractor](https://github.com/maastrichtlawtech/extraction_libraries/tree/main/rechtspraak/rechtspraak_extractor) - Functions to obtain published Dutch case law (rechtspraak) data and available metadata associated to the cases
+- [Case Law Explorer](https://github.com/maastrichtlawtech/case-law-explorer) - Materials for building a network analysis software platform for analyzing Dutch and European court decisions
 
 ## Datasets and Data
 [Back to Top](#contents)
@@ -95,6 +97,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [An 800GB Dataset of Diverse Text for Language Modeling](https://pile.eleuther.ai/)
 - Meta Search: [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [OpenLegalData](https://openlegaldata.io/)
+- Belgium: [Belgian Statutory Article Retrieval Dataset (BSARD), including code](https://github.com/maastrichtlawtech/bsard)
 - German NLP Resource: [Awesome German NLP](https://github.com/adbar/German-NLP)
 - [Legal Entity Recognition](https://github.com/elenanereiss/Legal-Entity-Recognition)
 - [Legal Text Summarization](https://mediatum.ub.tum.de/670493?show_id=1446654)
@@ -139,7 +142,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [US House of Representatives Office of the Law Revision Counsel](https://uscode.house.gov/download/annualhistoricalarchives/downloadxhtml.shtml)
 - US Board of Veterans Appeals (BVA) Citation Prediction [Dataset](https://reglab.stanford.edu/data/bva-case-citation-dataset) and [Code](https://github.com/TUMLegalTech/bva-citation-prediction)
 - Overview of Political Science Datasets: [PolData](https://github.com/erikgahner/PolData)
-- International Law: [Text of Trade Agreements (ToTA)](https://github.com/mappingtreaties/tota/tree/master/xml), [Electronic Database on Investment Treaties (EDIT)](https://edit.wti.org/document/investment-treaty/search)
+- International Law: [Text of Trade Agreements (ToTA)](https://github.com/mappingtreaties/tota/tree/master/xml)
 - International Law: [Corpus of Decisions: International Court of Justice (CD-ICJ)](https://doi.org/10.5281/zenodo.3826444)
 - International Law: [Corpus of Decisions: Permanent Court of International Justice (CD-PCIJ)](https://doi.org/10.5281/zenodo.3840479)
 - United Nations: [United Nations General Debate Corpus](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y), [United Nations Parallel Corpus](https://conferences.unite.un.org/uncorpus)
@@ -163,6 +166,13 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Doccano](https://github.com/doccano/doccano)
 - [Brat](https://brat.nlplab.org/)
 
+## Software (interfaces)
+[Back to Top](#contents)
+
+- [Case Law Explorer - Network analysis software platform for analyzing Dutch and European court decisions](https://dev.d11iy22xsphp3a.amplifyapp.com/) - [User Guide](https://maastrichtlawtech.github.io/case-explorer-ui/#/userguide/)
+- [Electronic Database on Investment Treaties (EDIT)](https://edit.wti.org/document/investment-treaty/search)
+- [GraphDoc - User-friendly graphical interface that allows building decision trees](https://maastrichtlawtech.github.io/graphdoc/) - [codebase](https://github.com/maastrichtlawtech/graphdoc)
+
 ## Research Groups, Labs, and Communities
 [Back to Top](#contents)
 
@@ -183,6 +193,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Workshop on Natural Legal Language Processing: Papers, models, data sets, and related events](https://nllpw.org/)
 - [Chinese AI and Law (CAIL)](http://cail.cipsc.org.cn/index.html)
 - [University of Copenhagen, iCourts, the Danish National Research Foundation's Centre of Excellence for International Courts](https://jura.ku.dk/icourts/)
+- [Maastricht Law and Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab)
 
 ## Tutorials
 [Back to Top](#contents)
