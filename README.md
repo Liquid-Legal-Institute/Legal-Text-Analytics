@@ -208,6 +208,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Information Extraction in legal documents](https://medium.com/@NaturalTech/legaltech-information-extraction-in-legal-documents-e1843a60bc8d)
 - [Legal NLP: Sentence classification and Explainable AI](https://github.com/bwaltl/LegalSentenceClassification)
 - [Legal AI Glossary](https://www.simplexico.ai/glossary)
+- [Legal AI Learning Centre](https://www.simplexico.ai/learn)
 
 ## Credits
 [Back to Top](#contents)
