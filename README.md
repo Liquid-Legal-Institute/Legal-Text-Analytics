@@ -19,6 +19,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Methods](#methods)
 * [Libraries](#libraries)
 * [Datasets and Data](#datasets-and-data)
+* [Large Language Models and GPT](#large-language-models-and-gpt)
 * [Annotation and Data Schemes](#annotation-and-data-schemes)
 * [Annotation Tools](#annotation-tools)
 * [Software (interfaces)](#software-interfaces)
@@ -56,6 +57,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Anomaly Detection](https://en.wikipedia.org/wiki/Anomaly_detection)
 - [Data Anonymization](https://en.wikipedia.org/wiki/Data_anonymization)
 - [Consistency Checking](https://arxiv.org/pdf/2012.08150.pdf)
+- [Natural Language Processing in the Legal Domain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4336224)
 
 ## Methods
 [Back to Top](#contents)
@@ -152,6 +154,15 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - India: [ILSI Dataset for Legal Statute Identification](https://github.com/Law-AI/LeSICiN)
 - India: [Dataset for Semantic Segmentation / Rhetorical Role Labeling](https://github.com/Law-AI/semantic-segmentation)
 - India: [Summarization with Multiple Datasets](https://github.com/Law-AI/summarization)
+
+## Large Language Models and GPT
+[Back to Top](#contents)
+- [ChatGPT at OpenAI](https://chat.openai.com/chat): [Examples](https://beta.openai.com/examples), [Documentation](https://beta.openai.com/docs/introduction), [Pricing](https://openai.com/api/pricing), [Fine-tuning ChatGPT](https://beta.openai.com/docs/api-reference/fine-tunes/create)
+- [Sketch summarizing ChatGPT](https://media.licdn.com/dms/image/C4D22AQFgVliRJ4RsBQ/feedshare-shrink_2048_1536/0/1674467662862?e=1677715200&v=beta&t=G1gCE8h2iA48210Ywl-TutuTGMjYM1euhbPXomp08Ws)
+- [Large Language Models: Report by KI Bundesverband](https://leam.ai/wp-content/uploads/2023/01/LEAM-MBS_KIBV_webversion_mitAnhang_V2_2023.pdf)
+- [Large Language Models: Hugging Face Report](https://huggingface.co/blog/large-language-models)
+- [Report on Limitations of ChatGPT](https://medium.com/@asarav/the-limitations-of-chat-gpt-8b73f5859bb4)
+- [GPT Takes the Bar Exam](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4314839)
 
 ## Annotation and Data Schemes
 [Back to Top](#contents)
