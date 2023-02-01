@@ -133,6 +133,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [European Court of Human Rights Argument Mining Corpus](http://www.di.uevora.pt/~pq/echr/)
 - EU [Law (eurlex R Package)](https://cloud.r-project.org/web/packages/eurlex/index.html), [Digital Corpus of the European Parliament (DCEP)](https://ec.europa.eu/jrc/en/language-technologies/dcep) 
 - EU [Regulatory Compliance Information Retrieval](https://archive.org/details/eacl2021_regir_datasets)
+- EU [LEXTREME](https://huggingface.co/datasets/joelito/lextreme)
 - Israel: [The Israeli Supreme Court Database](https://iscd.huji.ac.il/data)
 - Canada: [Federal Laws and Regulations](ftp://205.193.86.89/) (ftp://205.193.86.89/)
 - UK: [UK Law Reports & Case Law Search](https://www.iclr.co.uk/)
@@ -154,6 +155,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - India: [ILSI Dataset for Legal Statute Identification](https://github.com/Law-AI/LeSICiN)
 - India: [Dataset for Semantic Segmentation / Rhetorical Role Labeling](https://github.com/Law-AI/semantic-segmentation)
 - India: [Summarization with Multiple Datasets](https://github.com/Law-AI/summarization)
+- Switzerland [Swiss Judgment Prediction](https://huggingface.co/datasets/rcds/swiss_judgment_prediction)
 
 ## Large Language Models and GPT
 [Back to Top](#contents)
