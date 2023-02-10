@@ -159,6 +159,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Large Language Models and GPT
 [Back to Top](#contents)
+- See dedicated repository on [Large Language Models (LLMs) and Generative Pre-trained Transformers (GPTs) for Legal](https://github.com/Liquid-Legal-Institute/Legal-LLMs-GPTs)
 - [ChatGPT at OpenAI](https://chat.openai.com/chat): [Examples](https://beta.openai.com/examples), [Documentation](https://beta.openai.com/docs/introduction), [Pricing](https://openai.com/api/pricing), [Fine-tuning ChatGPT](https://beta.openai.com/docs/api-reference/fine-tunes/create)
 - [Sketch summarizing ChatGPT](https://media.licdn.com/dms/image/C4D22AQFgVliRJ4RsBQ/feedshare-shrink_2048_1536/0/1674467662862?e=1677715200&v=beta&t=G1gCE8h2iA48210Ywl-TutuTGMjYM1euhbPXomp08Ws)
 - [Large Language Models: Report by KI Bundesverband](https://leam.ai/wp-content/uploads/2023/01/LEAM-MBS_KIBV_webversion_mitAnhang_V2_2023.pdf)
