@@ -142,6 +142,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [US Caselaw Functional and Issue Specific Segmentation Dataset](https://github.com/jsavelka/us-dec-func-iss-sgm/tree/master)
 - [US Caselaw Sentence Polarity Detection](https://github.com/vernrwalker/FindingSentencePolarity)
 - [US Caselaw Access Project](https://case.law)
+- [US Federal caselaw via CourtListener RECAP by the Free.Law project](https://www.courtlistener.com/recap/)
 - [US Supreme Court Database](http://scdb.wustl.edu/)
 - [US House of Representatives Office of the Law Revision Counsel](https://uscode.house.gov/download/annualhistoricalarchives/downloadxhtml.shtml)
 - US Board of Veterans Appeals (BVA) Citation Prediction [Dataset](https://reglab.stanford.edu/data/bva-case-citation-dataset) and [Code](https://github.com/TUMLegalTech/bva-citation-prediction)
