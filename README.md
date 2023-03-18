@@ -123,6 +123,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - Germany: [Corpus der Entscheidungen des Bundesverwaltungsgerichts (CE-BVerwG)](https://doi.org/10.5281/zenodo.3911067)
 - Germany: [Corpus der Entscheidungen des Bundesarbeitsgerichts (CE-BAG)](https://doi.org/10.5281/zenodo.4006644)
 - Germany: [Corpus der Entscheidungen des Bundespatentgerichts (CE-BPatG)](https://doi.org/10.5281/zenodo.3954850)
+- Germany: [Corpus der Entscheidungen des Bundesgerichtshofs (CE-BGH)](https://zenodo.org/record/7699032)
 - Germany: [Presidents and Vice-Presidents of the Federal Courts of Germany (PVP-FCG)](https://doi.org/10.5281/zenodo.4568681)
 - Germany: [Stoppwörter der Deutschen Rechtssprache (SW-DE-RS)](https://doi.org/10.5281/zenodo.3995593)
 - France: [The French Court Decision Structure dataset — FCD12K](http://datasets.doctrine.fr/)
