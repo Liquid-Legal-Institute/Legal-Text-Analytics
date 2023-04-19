@@ -128,6 +128,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - Germany: [Stoppwörter der Deutschen Rechtssprache (SW-DE-RS)](https://doi.org/10.5281/zenodo.3995593)
 - France: [The French Court Decision Structure dataset — FCD12K](http://datasets.doctrine.fr/)
 - Switzerland: [Swiss Legislation Corpus](https://pub.cl.uzh.ch/corpora/PaCoCo/Swiss_Legislation_Corpus/) French and German
+- Switzerland: [Swiss Judgment Prediction](https://huggingface.co/datasets/rcds/swiss_judgment_prediction)
+- Switzerland: [Swiss Federal Supreme Court Dataset (SCD)](https://doi.org/10.5281/zenodo.7793043)
 - Turkey: [Prediction of Outcomes in the Higher Courts of Turkey](https://github.com/koc-lab/law-turk)
 - India: [Indian Legal Documents Corpus for Court Judgment Prediction and Explanation](https://github.com/Exploration-Lab/CJPE)
 - ECtHR: [Judicial Decisions of the European Court of Human Rights](https://github.com/masha-medvedeva/ECtHR_crystal_ball)
@@ -157,7 +159,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - India: [ILSI Dataset for Legal Statute Identification](https://github.com/Law-AI/LeSICiN)
 - India: [Dataset for Semantic Segmentation / Rhetorical Role Labeling](https://github.com/Law-AI/semantic-segmentation)
 - India: [Summarization with Multiple Datasets](https://github.com/Law-AI/summarization)
-- Switzerland [Swiss Judgment Prediction](https://huggingface.co/datasets/rcds/swiss_judgment_prediction)
 - [European Patent Office - EP full-text data for text analytics](https://www.epo.org/searching-for-patents/data/bulk-data-sets/text-analytics.html)
 - [Google Patents Public Datasets: connecting public, paid, and private patent data](https://cloud.google.com/blog/topics/public-datasets/google-patents-public-datasets-connecting-public-paid-and-private-patent-data?hl=en)
 - [World Patent Information (WPI) - Documents technical domains from the major patenting authorities](https://zenodo.org/record/1489994#.Y_-ABuzMIeY)
