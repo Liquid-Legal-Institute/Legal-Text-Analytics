@@ -196,6 +196,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Case Law Explorer - Network analysis software platform for analyzing Dutch and European court decisions](https://dev.d11iy22xsphp3a.amplifyapp.com/) - [User Guide](https://maastrichtlawtech.github.io/case-explorer-ui/#/userguide/)
 - [Electronic Database on Investment Treaties (EDIT)](https://edit.wti.org/document/investment-treaty/search)
 - [GraphDoc - User-friendly graphical interface that allows building decision trees](https://maastrichtlawtech.github.io/graphdoc/) - [codebase](https://github.com/maastrichtlawtech/graphdoc)
+- [gesp - Download all publicly available German court decisions straight from your terminal](https://github.com/niklaswais/gesp)
 
 ## Research Groups, Labs, and Communities
 [Back to Top](#contents)
