@@ -95,7 +95,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Datasets and Data
 [Back to Top](#contents)
-- [BUILDNyAI](https://github.com/Legal-NLP-EkStep/rhetorical-role-baseline)
 - [NLP Datasets](https://github.com/niderhoff/nlp-datasets)
 - [An 800GB Dataset of Diverse Text for Language Modeling](https://pile.eleuther.ai/)
 - Meta Search: [Google Dataset Search](https://datasetsearch.research.google.com/)
@@ -159,6 +158,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - India: [ILSI Dataset for Legal Statute Identification](https://github.com/Law-AI/LeSICiN)
 - India: [Dataset for Semantic Segmentation / Rhetorical Role Labeling](https://github.com/Law-AI/semantic-segmentation)
 - India: [Summarization with Multiple Datasets](https://github.com/Law-AI/summarization)
+- India: [BUILDNyAI](https://github.com/Legal-NLP-EkStep/rhetorical-role-baseline)
 - [European Patent Office - EP full-text data for text analytics](https://www.epo.org/searching-for-patents/data/bulk-data-sets/text-analytics.html)
 - [Google Patents Public Datasets: connecting public, paid, and private patent data](https://cloud.google.com/blog/topics/public-datasets/google-patents-public-datasets-connecting-public-paid-and-private-patent-data?hl=en)
 - [World Patent Information (WPI) - Documents technical domains from the major patenting authorities](https://zenodo.org/record/1489994#.Y_-ABuzMIeY)
