@@ -51,6 +51,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Question Answering](https://en.wikipedia.org/wiki/Question_answering)
 - Legal Case Outcome Prediction
 - Legal and Regulatory Monitoring
+- [Legal Criticality Prediction](https://arxiv.org/abs/2306.09237)
+- [Court View Generation](https://arxiv.org/abs/2306.09237)
 - [Reference and Coreference Extraction](https://en.wikipedia.org/wiki/Coreference)
 - [Document Assembling and Generation](https://en.wikipedia.org/wiki/Document_automation)
 - [Voice Transcription](https://en.wikipedia.org/wiki/Speech_recognition)
@@ -109,6 +111,10 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [100k German Court Decisions](http://openlegaldata.io/research/2019/02/19/court-decision-dataset.html)
 - [Legal Paper Datasets](https://github.com/thunlp/LegalPapers#datasets)
 - [LexGLUE](https://arxiv.org/abs/2110.00976): a Benchmark Dataset for Legal Language Understanding in English
+- [LEXTREME](https://arxiv.org/abs/2301.13126): A Multi-Lingual and Multi-Task Benchmark for the Legal Domain
+- [MultiLegalPile](https://arxiv.org/abs/2306.02069): A 689GB Multilingual Legal Corpus
+- [MultiLegalSBD](https://arxiv.org/abs/2305.01211): A Multilingual Legal Sentence Boundary Detection Dataset
+- [MultiLegalNeg](https://huggingface.co/datasets/rcds/MultiLegalNeg)
 - [Awesome Legal Data](https://github.com/openlegaldata/awesome-legal-data)
 - Germany: [Gesetze im Internet](https://www.gesetze-im-internet.de/), [Rechtsprechung im Internet](http://www.rechtsprechung-im-internet.de/), [Verwaltungsvorschriften im Internet](http://www.verwaltungsvorschriften-im-internet.de/)
 - Germany: [Annotated Court Decisions (Judgment style)](https://zenodo.org/record/3936490)
@@ -127,8 +133,18 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - Germany: [Stoppwörter der Deutschen Rechtssprache (SW-DE-RS)](https://doi.org/10.5281/zenodo.3995593)
 - France: [The French Court Decision Structure dataset — FCD12K](http://datasets.doctrine.fr/)
 - Switzerland: [Swiss Legislation Corpus](https://pub.cl.uzh.ch/corpora/PaCoCo/Swiss_Legislation_Corpus/) French and German
-- Switzerland: [Swiss Judgment Prediction](https://huggingface.co/datasets/rcds/swiss_judgment_prediction)
 - Switzerland: [Swiss Federal Supreme Court Dataset (SCD)](https://doi.org/10.5281/zenodo.7793043)
+- Switzerland: [Swiss Judgment Prediction](https://huggingface.co/datasets/rcds/swiss_judgment_prediction)
+- Switzerland: [Swiss Judgment Prediction XL](https://huggingface.co/datasets/rcds/swiss_judgment_prediction_xl)
+- Switzerland: [Swiss Criticality Prediction](https://huggingface.co/datasets/rcds/swiss_criticality_prediction)
+- Switzerland: [Swiss Law Area Prediction](https://huggingface.co/datasets/rcds/swiss_law_area_prediction)
+- Switzerland: [Swiss Leading Decisions](https://huggingface.co/datasets/rcds/swiss_leading_decisions)
+- Switzerland: [Swiss Legislation](https://huggingface.co/datasets/rcds/swiss_legislation)
+- Switzerland: [Swiss Rulings](https://huggingface.co/datasets/rcds/swiss_rulings)
+- Switzerland: [Swiss Leading Decision Summarzation](https://huggingface.co/datasets/rcds/swiss_leading_decision_summarization)
+- Switzerland: [Swiss Citation Extraction](https://huggingface.co/datasets/rcds/swiss_citation_extraction)
+- Switzerland: [Swiss Court View Generation](https://huggingface.co/datasets/rcds/swiss_court_view_generation)
+- Switzerland: [Swiss Doc2Doc Information Retrieval](https://huggingface.co/datasets/rcds/swiss_doc2doc_ir)
 - Turkey: [Prediction of Outcomes in the Higher Courts of Turkey](https://github.com/koc-lab/law-turk)
 - India: [Indian Legal Documents Corpus for Court Judgment Prediction and Explanation](https://github.com/Exploration-Lab/CJPE)
 - ECtHR: [Judicial Decisions of the European Court of Human Rights](https://github.com/masha-medvedeva/ECtHR_crystal_ball)
@@ -172,6 +188,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Large Language Models: Hugging Face Report](https://huggingface.co/blog/large-language-models)
 - [Report on Limitations of ChatGPT](https://medium.com/@asarav/the-limitations-of-chat-gpt-8b73f5859bb4)
 - [GPT Takes the Bar Exam](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4314839)
+- [Legal Language Models](https://huggingface.co/joelito)
 
 ## Annotation and Data Schemes
 [Back to Top](#contents)
