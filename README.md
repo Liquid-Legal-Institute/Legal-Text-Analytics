@@ -101,7 +101,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [An 800GB Dataset of Diverse Text for Language Modeling](https://pile.eleuther.ai/)
 - Meta Search: [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [OpenLegalData](https://openlegaldata.io/)
-- [IR Ad-hoc Ranking bBenchmarks, Training Datasets, etc.](https://github.com/allenai/ir_datasets)
+- [IR Ad-hoc Ranking Benchmarks, Training Datasets, etc.](https://github.com/allenai/ir_datasets)
 - Belgium: [Belgian Statutory Article Retrieval Dataset (BSARD), including code](https://github.com/maastrichtlawtech/bsard)
 - [Awesome German NLP](https://github.com/adbar/German-NLP)
 - [German Dataset for Legal Information Retrieval (GerDaLIR)](https://github.com/lavis-nlp/GerDaLIR)
@@ -256,7 +256,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Credits
 [Back to Top](#contents)
 
-See contributors and committers (and many more).
+Many thanks to our [contributors](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/graphs/contributors) and many more.
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
