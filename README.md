@@ -180,6 +180,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [European Patent Office - EP full-text data for text analytics](https://www.epo.org/searching-for-patents/data/bulk-data-sets/text-analytics.html)
 - [Google Patents Public Datasets: connecting public, paid, and private patent data](https://cloud.google.com/blog/topics/public-datasets/google-patents-public-datasets-connecting-public-paid-and-private-patent-data?hl=en)
 - [World Patent Information (WPI) - Documents technical domains from the major patenting authorities](https://zenodo.org/record/1489994#.Y_-ABuzMIeY)
+- [Genocide Transcript Corpus (GTC)](https://github.com/MiriamSchirmer/genocide-transcript-corpus)
 
 ## Large Language Models and GPT
 [Back to Top](#contents)
