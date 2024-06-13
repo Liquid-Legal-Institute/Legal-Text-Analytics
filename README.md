@@ -123,6 +123,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - Germany: [German Federal Courts Dataset](https://www.richter-im-internet.de)
 - Germany: Quantitative dataset of asylum court hearings at German administrative courts. [ASYFAIR](https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.sxksn032f)
 - Germany: Answering legal questions from laymen in German civil law system: Data and code. [EACL Paper 2024](https://github.com/trusthlt/eacl24-german-legal-questions)
+- Germany: [Detecting void  clauses in German standard form consumer contracts](https://github.com/DaBr01/AGB-DE)
 - Germany: [Aktenzeichen der Bundesrepublik Deutschland (AZ-BRD)](https://doi.org/10.5281/zenodo.4559383)
 - Germany: [Corpus des Deutschen Bundesrechts (C-DBR)](https://doi.org/10.5281/zenodo.3832111)
 - Germany: [Corpus der Entscheidungen des Bundesverfassungsgerichts (CE-BVerfG)](https://doi.org/10.5281/zenodo.3902658)
