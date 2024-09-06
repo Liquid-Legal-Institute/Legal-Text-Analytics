@@ -161,6 +161,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - Canada: [Federal Laws and Regulations](ftp://205.193.86.89/) (ftp://205.193.86.89/)
 - UK: [UK Law Reports & Case Law Search](https://www.iclr.co.uk/)
 - UK: [Cambridge Law Corpus](https://www.cst.cam.ac.uk/research/srg/projects/law)
+- Australia: [Open Australian Legal Corpus](https://huggingface.co/datasets/umarbutler/open-australian-legal-corpus) — The first and only multijurisdictional open corpus of Australian legislative and judicial documents
 - [US Statutory Law Interpretation Data Set](https://github.com/jsavelka/statutory_interpretation)
 - [US Caselaw Sentence Boundary Detection Dataset](https://github.com/jsavelka/sbd_adjudicatory_dec.git)
 - [US Caselaw Functional and Issue Specific Segmentation Dataset](https://github.com/jsavelka/us-dec-func-iss-sgm/tree/master)
