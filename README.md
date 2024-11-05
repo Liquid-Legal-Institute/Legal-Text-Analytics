@@ -64,7 +64,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Methods
 [Back to Top](#contents)
 
-- [NLP Overview](https://nlpoverview.com/)
 - [NLP Progress](https://nlpprogress.com/)
 - [Text Visualizations](https://textvis.lnu.se/)
 - [Optical Character Recognition](https://github.com/kba/awesome-ocr)
