@@ -185,6 +185,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Google Patents Public Datasets: connecting public, paid, and private patent data](https://cloud.google.com/blog/topics/public-datasets/google-patents-public-datasets-connecting-public-paid-and-private-patent-data?hl=en)
 - [World Patent Information (WPI) - Documents technical domains from the major patenting authorities](https://zenodo.org/record/1489994#.Y_-ABuzMIeY)
 - [Genocide Transcript Corpus (GTC)](https://github.com/MiriamSchirmer/genocide-transcript-corpus)
+- Korea: [MiniLex 7-domain Korean lawdata (wellsa-ai)](https://huggingface.co/wellsa-ai) — 7 sibling HF datasets (statutes / admin rules / precedents / statutory interpretations / constitutional decisions / local ordinances / treaties), 397K+ Markdown docs, MIT, daily cron updates. Production demo: https://minilex.wellsa.ai. GitHub canonical: https://github.com/wellsa-ai
 
 ## Large Language Models and GPT
 [Back to Top](#contents)
