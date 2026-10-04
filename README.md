@@ -185,6 +185,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Google Patents Public Datasets: connecting public, paid, and private patent data](https://cloud.google.com/blog/topics/public-datasets/google-patents-public-datasets-connecting-public-paid-and-private-patent-data?hl=en)
 - [World Patent Information (WPI) - Documents technical domains from the major patenting authorities](https://zenodo.org/record/1489994#.Y_-ABuzMIeY)
 - [Genocide Transcript Corpus (GTC)](https://github.com/MiriamSchirmer/genocide-transcript-corpus)
+- [Court Rules](https://www.courtrules.app/?ref=liquidlegalinstitute)
 
 ## Large Language Models and GPT
 [Back to Top](#contents)
