@@ -222,6 +222,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Electronic Database on Investment Treaties (EDIT)](https://edit.wti.org/document/investment-treaty/search)
 - [GraphDoc - User-friendly graphical interface that allows building decision trees](https://maastrichtlawtech.github.io/graphdoc/) - [codebase](https://github.com/maastrichtlawtech/graphdoc)
 - [gesp - Download all publicly available German court decisions straight from your terminal](https://github.com/niklaswais/gesp)
+- [Korean Law MCP - Search and verify Korean statutes, precedents, ordinances and treaties from the official Ministry of Government Legislation Open API, as an MCP server and CLI](https://github.com/chrisryugj/korean-law-mcp)
 
 ## Research Groups, Labs, and Communities
 [Back to Top](#contents)
