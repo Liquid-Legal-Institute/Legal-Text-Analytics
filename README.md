@@ -134,7 +134,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - Germany: [Corpus der Entscheidungen des Bundesgerichtshofs (CE-BGH)](https://zenodo.org/record/7699032)
 - Germany: [Presidents and Vice-Presidents of the Federal Courts of Germany (PVP-FCG)](https://doi.org/10.5281/zenodo.4568681)
 - Germany: [Stoppwörter der Deutschen Rechtssprache (SW-DE-RS)](https://doi.org/10.5281/zenodo.3995593)
-- France: [The French Court Decision Structure dataset — FCD12K](http://datasets.doctrine.fr/)
+- France: [for judicial court decisions](https://www.justice.gouv.fr/documentation/open-data-court-decisions)
+- France: [for administrative court decisions](https://opendata.justice-administrative.fr/)
 - Switzerland: [Swiss Legislation Corpus](https://pub.cl.uzh.ch/corpora/PaCoCo/Swiss_Legislation_Corpus/) French and German
 - Switzerland: [Swiss Federal Supreme Court Dataset (SCD)](https://doi.org/10.5281/zenodo.7793043)
 - Switzerland: [Swiss Judgment Prediction](https://huggingface.co/datasets/rcds/swiss_judgment_prediction)
