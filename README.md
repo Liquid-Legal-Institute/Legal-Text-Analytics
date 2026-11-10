@@ -187,6 +187,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [World Patent Information (WPI) - Documents technical domains from the major patenting authorities](https://zenodo.org/record/1489994#.Y_-ABuzMIeY)
 - [Genocide Transcript Corpus (GTC)](https://github.com/MiriamSchirmer/genocide-transcript-corpus)
 - [Court Rules](https://www.courtrules.app/?ref=liquidlegalinstitute)
+- [Global Law](https://github.com/lexifina/global-law) by Lexifina: The legislation of 208 jurisdictions (714 corpora) as git histories, with one file per provision and every change a commit dated the day it took effect and authored by the law that made it. Also available through a free REST API and a hosted MCP server.
 
 ## Large Language Models and GPT
 [Back to Top](#contents)
