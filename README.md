@@ -187,6 +187,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [World Patent Information (WPI) - Documents technical domains from the major patenting authorities](https://zenodo.org/record/1489994#.Y_-ABuzMIeY)
 - [Genocide Transcript Corpus (GTC)](https://github.com/MiriamSchirmer/genocide-transcript-corpus)
 - [Court Rules](https://www.courtrules.app/?ref=liquidlegalinstitute)
+- Syria: [Syrian Official Gazette Records](https://doi.org/10.5281/zenodo.24122383): Metadata for 4,162 Decrees and Decisions and 3,042 Company Notices in Arabic and English
 
 ## Large Language Models and GPT
 [Back to Top](#contents)
