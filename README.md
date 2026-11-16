@@ -187,6 +187,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [World Patent Information (WPI) - Documents technical domains from the major patenting authorities](https://zenodo.org/record/1489994#.Y_-ABuzMIeY)
 - [Genocide Transcript Corpus (GTC)](https://github.com/MiriamSchirmer/genocide-transcript-corpus)
 - [Court Rules](https://www.courtrules.app/?ref=liquidlegalinstitute)
+- [Agency AI Contract Clauses](https://bigpipe.agency/ai-contract-clauses) by [BigPipe](https://bigpipe.agency): 99 AI clauses from the published client terms of 24 marketing and creative agencies in 10 countries, each in the agency's own words and labeled with the question it settles (AI use, client consent, human review, client data, ownership, warranties, labeling, pricing). CSV under CC BY 4.0.
 
 ## Large Language Models and GPT
 [Back to Top](#contents)
@@ -225,6 +226,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [gesp - Download all publicly available German court decisions straight from your terminal](https://github.com/niklaswais/gesp)
 - [Korean Law MCP - Search and verify Korean statutes, precedents, ordinances and treaties from the official Ministry of Government Legislation Open API, as an MCP server and CLI](https://github.com/chrisryugj/korean-law-mcp)
 - [Prawnet - Search Polish court rulings and legislation, with a ruling-to-provision citation graph, appeal outcomes and case-number verification; REST API and remote MCP server](https://prawnet.pl/)
+- [LegalTech Top - German Caselaw RAG & Document Pipeline](https://legaltech.top/) - Open architectures, high-resolution document processing and local RAG workflows for German caselaw analysis ([Repo](https://github.com/legaltech-kanzlei/legaltech-kanzlei.github.io))
 
 ## Research Groups, Labs, and Communities
 [Back to Top](#contents)
