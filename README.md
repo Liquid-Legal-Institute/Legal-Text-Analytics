@@ -225,6 +225,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [GraphDoc - User-friendly graphical interface that allows building decision trees](https://maastrichtlawtech.github.io/graphdoc/) - [codebase](https://github.com/maastrichtlawtech/graphdoc)
 - [gesp - Download all publicly available German court decisions straight from your terminal](https://github.com/niklaswais/gesp)
 - [Korean Law MCP - Search and verify Korean statutes, precedents, ordinances and treaties from the official Ministry of Government Legislation Open API, as an MCP server and CLI](https://github.com/chrisryugj/korean-law-mcp)
+- [Prawnet - Search Polish court rulings and legislation, with a ruling-to-provision citation graph, appeal outcomes and case-number verification; REST API and remote MCP server](https://prawnet.pl/)
 - [LegalTech Top - German Caselaw RAG & Document Pipeline](https://legaltech.top/) - Open architectures, high-resolution document processing and local RAG workflows for German caselaw analysis ([Repo](https://github.com/legaltech-kanzlei/legaltech-kanzlei.github.io))
 
 ## Research Groups, Labs, and Communities
