@@ -187,6 +187,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [World Patent Information (WPI) - Documents technical domains from the major patenting authorities](https://zenodo.org/record/1489994#.Y_-ABuzMIeY)
 - [Genocide Transcript Corpus (GTC)](https://github.com/MiriamSchirmer/genocide-transcript-corpus)
 - [Court Rules](https://www.courtrules.app/?ref=liquidlegalinstitute)
+- Syria: [Syrian Official Gazette Records](https://doi.org/10.5281/zenodo.24122383): Metadata for 4,162 Decrees and Decisions and 3,042 Company Notices in Arabic and English
 - [Global Law](https://github.com/lexifina/global-law) by Lexifina: The legislation of 208 jurisdictions (714 corpora) as git histories, with one file per provision and every change a commit dated the day it took effect and authored by the law that made it. Also available through a free REST API and a hosted MCP server.
 - [Agency AI Contract Clauses](https://bigpipe.agency/ai-contract-clauses) by [BigPipe](https://bigpipe.agency): 99 AI clauses from the published client terms of 24 marketing and creative agencies in 10 countries, each in the agency's own words and labeled with the question it settles (AI use, client consent, human review, client data, ownership, warranties, labeling, pricing). CSV under CC BY 4.0.
 
