@@ -229,6 +229,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Korean Law MCP - Search and verify Korean statutes, precedents, ordinances and treaties from the official Ministry of Government Legislation Open API, as an MCP server and CLI](https://github.com/chrisryugj/korean-law-mcp)
 - [Prawnet - Search Polish court rulings and legislation, with a ruling-to-provision citation graph, appeal outcomes and case-number verification; REST API and remote MCP server](https://prawnet.pl/)
 - [LegalTech Top - German Caselaw RAG & Document Pipeline](https://legaltech.top/) - Open architectures, high-resolution document processing and local RAG workflows for German caselaw analysis ([Repo](https://github.com/legaltech-kanzlei/legaltech-kanzlei.github.io))
+- [Pandex - Official European legislation and highest-court decisions by article, with past versions and citation links; REST API and remote MCP server](https://www.pandex.io/)
 
 ## Research Groups, Labs, and Communities
 [Back to Top](#contents)
